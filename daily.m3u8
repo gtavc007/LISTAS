@@ -1,0 +1,2197 @@
+#EXTM3U
+#EXTINF:-1,TF1 (H265) IPTVUltra.com [0x0]
+http://62.210.245.19:8000/live/testapp/testapp/140.ts
+#EXTINF:-1,M6 (H265) IPTVUltra.com [0x0]
+http://62.210.245.19:8000/live/testapp/testapp/142.ts
+#EXTINF:-1,France 2 (H265) IPTVUltra.com [0x0]
+http://62.210.245.19:8000/live/testapp/testapp/141.ts
+#EXTINF:-1,France 2 (H265) IPTVUltra.com [0x0]
+http://62.210.245.19:8000/live/testapp/testapp/1.ts
+#EXTINF:-1,Canal  Family (H265) IPTVUltra.com [0x0]
+http://62.210.245.19:8000/live/testapp/testapp/4.ts
+#EXTINF:-1,W9 (H265) IPTVUltra.com [0x0]
+http://62.210.245.19:8000/live/testapp/testapp/3.ts
+#EXTINF:-1,Canal  Sport (H265) IPTVUltra.com [0x0]
+http://62.210.245.19:8000/live/testapp/testapp/5.ts
+#EXTINF:-1,beIN SPORTS 3 (H265) IPTVUltra.com [0x0]
+http://62.210.245.19:8000/live/testapp/testapp/185.ts
+#EXTINF:-1,Cine  Frisson ( H265 ) IPTVUltra.com [0x0]
+http://62.210.245.19:8000/live/testapp/testapp/202.ts
+#EXTINF:-1,Ushuaïa (H265) IPTVUltra.com [0x0]
+http://62.210.245.19:8000/live/testapp/testapp/188.ts
+#EXTINF:-1,National Geographic (H265) IPTVUltra.com [0x0]
+http://62.210.245.19:8000/live/testapp/testapp/189.ts
+#EXTINF:-1,M6 (H265) IPTVUltra.com [0x0]
+http://62.210.245.19:8000/live/testapp/testapp/2.ts
+#EXTINF:-1,W9 (H265) IPTVUltra.com [0x0]
+http://62.210.245.19:8000/live/testapp/testapp/143.ts
+#EXTINF:-1,beIN SPORTS 1 (H265) IPTVUltra.com [0x0]
+http://62.210.245.19:8000/live/testapp/testapp/183.ts
+#EXTINF:-1,Ciné  Premier (H265) IPTVUltra.com [0x0]
+http://62.210.245.19:8000/live/testapp/testapp/191.ts
+#EXTINF:-1,Cine  Emotion (H265) IPTVUltra.com [0x0]
+http://62.210.245.19:8000/live/testapp/testapp/187.ts
+#EXTINF:-1,HD1 IPTVUltra.com [1280x720]
+http://62.210.245.19:8000/live/testapp/testapp/29.ts
+#EXTINF:-1,BFM Business IPTVUltra.com [1440x1088]
+http://62.210.245.19:8000/live/testapp/testapp/71.ts
+#EXTINF:-1,OCS Max (H265) IPTVUltra.com [0x0]
+http://62.210.245.19:8000/live/testapp/testapp/190.ts
+#EXTINF:-1,13eme Rue IPTVUltra.com [1920x1088]
+http://62.210.245.19:8000/live/testapp/testapp/53.ts
+#EXTINF:-1,A-LA-CARTE-6 IPTVUltra.com [640x272]
+http://62.210.245.19:8000/live/testapp/testapp/105.ts
+#EXTINF:-1,Play   Cinema 1 IPTVUltra.com [784x336]
+http://62.210.245.19:8000/live/testapp/testapp/192.ts
+#EXTINF:-1,Canal Sport IPTVUltra.com [1920x1088]
+http://62.210.245.19:8000/live/testapp/testapp/169.ts
+#EXTINF:-1,A-LA-CARTE-22 IPTVUltra.com [784x448]
+http://62.210.245.19:8000/live/testapp/testapp/121.ts
+#EXTINF:-1,M6 Music IPTVUltra.com [1280x720]
+http://62.210.245.19:8000/live/testapp/testapp/54.ts
+#EXTINF:-1,A-LA-CARTE-15 IPTVUltra.com [624x256]
+http://62.210.245.19:8000/live/testapp/testapp/114.ts
+#EXTINF:-1,A-LA-CARTE-36 IPTVUltra.com [784x336]
+http://62.210.245.19:8000/live/testapp/testapp/135.ts
+#EXTINF:-1,CHERIE 25 IPTVUltra.com [1024x576]
+http://62.210.245.19:8000/live/testapp/testapp/69.ts
+#EXTINF:-1,Cine Premier IPTVUltra.com [1280x720]
+http://62.210.245.19:8000/live/testapp/testapp/12.ts
+#EXTINF:-1,Cinepolar IPTVUltra.com [1280x720]
+http://62.210.245.19:8000/live/testapp/testapp/60.ts
+#EXTINF:-1,TELEMAGINO IPTVUltra.com [1280x720]
+http://62.210.245.19:8000/live/testapp/testapp/174.ts
+#EXTINF:-1,E! Entertainment IPTVUltra.com [1280x720]
+http://62.210.245.19:8000/live/testapp/testapp/57.ts
+#EXTINF:-1,Cartoon Network IPTVUltra.com [1920x1088]
+http://62.210.245.19:8000/live/testapp/testapp/61.ts
+#EXTINF:-1,Chasse et Peche IPTVUltra.com [1280x720]
+http://62.210.245.19:8000/live/testapp/testapp/51.ts
+#EXTINF:-1,France 2 IPTVUltra.com [1280x720]
+http://62.210.245.19:8000/live/testapp/testapp/21.ts
+#EXTINF:-1,OCS Max IPTVUltra.com [1280x720]
+http://62.210.245.19:8000/live/testapp/testapp/15.ts
+#EXTINF:-1,A-LA-CARTE-2 IPTVUltra.com [784x432]
+http://62.210.245.19:8000/live/testapp/testapp/101.ts
+#EXTINF:-1,NICKLODEON IPTVUltra.com [960x544]
+http://62.210.245.19:8000/live/testapp/testapp/78.ts
+#EXTINF:-1,OCS Choc IPTVUltra.com [1280x720]
+http://62.210.245.19:8000/live/testapp/testapp/18.ts
+#EXTINF:-1,France O IPTVUltra.com [1280x720]
+http://62.210.245.19:8000/live/testapp/testapp/25.ts
+#EXTINF:-1,A-LA-CARTE-4 IPTVUltra.com [608x256]
+http://62.210.245.19:8000/live/testapp/testapp/103.ts
+#EXTINF:-1,Folk+ IPTVUltra.com [720x576]
+http://85.114.128.105:2475/live/thisis85/ip85/40.ts
+#EXTINF:-1,RTK IPTVUltra.com [704x576]
+http://85.114.128.105:2475/live/thisis85/ip85/38.ts
+#EXTINF:-1,Vizion Plus IPTVUltra.com [704x576]
+http://85.114.128.105:2475/live/thisis85/ip85/25.ts
+#EXTINF:-1,Mtv Kosova IPTVUltra.com [704x576]
+http://85.114.128.105:2475/live/thisis85/ip85/18.ts
+#EXTINF:-1,TVSH IPTVUltra.com [720x576]
+http://85.114.128.105:2475/live/thisis85/ip85/15.ts
+#EXTINF:-1,Tring Sport 1 IPTVUltra.com [704x576]
+http://85.114.128.105:2475/live/thisis85/ip85/21.ts
+#EXTINF:-1,Top Ch IPTVUltra.com [704x576]
+http://85.114.128.105:2475/live/thisis85/ip85/13.ts
+#EXTINF:-1,T HD IPTVUltra.com [720x576]
+http://85.114.128.105:2475/live/thisis85/ip85/23.ts
+#EXTINF:-1,Rtl IPTVUltra.com [720x576]
+http://85.114.128.105:2475/live/thisis85/ip85/10.ts
+#EXTINF:-1,First Channel IPTVUltra.com [720x576]
+http://85.114.128.105:2475/live/thisis85/ip85/16.ts
+#EXTINF:-1,Klan HD IPTVUltra.com [704x576]
+http://85.114.128.105:2475/live/thisis85/ip85/14.ts
+#EXTINF:-1,Tring Sport2 IPTVUltra.com [704x576]
+http://85.114.128.105:2475/live/thisis85/ip85/11.ts
+#EXTINF:-1,BBF IPTVUltra.com [720x576]
+http://85.114.128.105:2475/live/thisis85/ip85/19.ts
+#EXTINF:-1,TVSH IPTVUltra.com [720x576]
+http://85.114.128.105:2475/live/thisis85/ip85/5.ts
+#EXTINF:-1,Film Hits IPTVUltra.com [704x576]
+http://85.114.128.105:2475/live/thisis85/ip85/22.ts
+#EXTINF:-1,SS1 IPTVUltra.com [720x576]
+http://85.114.128.105:2475/live/thisis85/ip85/3.ts
+#EXTINF:-1,SS4 IPTVUltra.com [720x576]
+http://85.114.128.105:2475/live/thisis85/ip85/8.ts
+#EXTINF:-1,RTK 3 IPTVUltra.com [720x576]
+http://85.114.128.105:2475/live/thisis85/ip85/6.ts
+#EXTINF:-1,Dukagjini HD IPTVUltra.com [720x576]
+http://85.114.128.105:2475/live/thisis85/ip85/17.ts
+#EXTINF:-1,EN: Al Jazeera English IPTVUltra.com [640x480]
+http://94.23.15.187/live/testy2016/testy2016/218.ts
+#EXTINF:-1,AR: Al Jazeera IPTVUltra.com [640x480]
+http://94.23.15.187/live/testy2016/testy2016/731.ts
+#EXTINF:-1,RTP 1 IPTVUltra.com [720x576]
+http://144.217.76.96:8003/live/armindo/armindo/890.ts
+#EXTINF:-1,SIC IPTVUltra.com [720x576]
+http://144.217.76.96:8003/live/armindo/armindo/880.ts
+#EXTINF:-1,RTP 1 Mobile IPTVUltra.com [720x576]
+http://144.217.76.96:8003/live/armindo/armindo/1402.ts
+#EXTINF:-1,TVI IPTVUltra.com [720x576]
+http://144.217.76.96:8003/live/armindo/armindo/891.ts
+#EXTINF:-1,RTP 2 Mobile IPTVUltra.com [720x576]
+http://144.217.76.96:8003/live/armindo/armindo/1454.ts
+#EXTINF:-1,RTP 2 IPTVUltra.com [720x576]
+http://144.217.76.96:8003/live/armindo/armindo/882.ts
+#EXTINF:-1,TVI Mobile IPTVUltra.com [640x368]
+http://144.217.76.96:8003/live/armindo/armindo/1401.ts
+#EXTINF:-1,SIC NOTICIAS Mobile IPTVUltra.com [720x576]
+http://144.217.76.96:8003/live/armindo/armindo/1437.ts
+#EXTINF:-1,TVI 24 IPTVUltra.com [720x576]
+http://144.217.76.96:8003/live/armindo/armindo/877.ts
+#EXTINF:-1,BTV IPTVUltra.com [720x576]
+http://144.217.76.96:8003/live/armindo/armindo/885.ts
+#EXTINF:-1,CMTV IPTVUltra.com [720x576]
+http://144.217.76.96:8003/live/armindo/armindo/887.ts
+#EXTINF:-1,SPORT TV 1 IPTVUltra.com [720x576]
+http://144.217.76.96:8003/live/armindo/armindo/867.ts
+#EXTINF:-1,SPORT TV 1 HD IPTVUltra.com [1280x720]
+http://144.217.76.96:8003/live/armindo/armindo/858.ts
+#EXTINF:-1,SIC NOTICIAS IPTVUltra.com [720x576]
+http://144.217.76.96:8003/live/armindo/armindo/883.ts
+#EXTINF:-1,SPORT TV 3 Mobile IPTVUltra.com [720x576]
+http://144.217.76.96:8003/live/armindo/armindo/1441.ts
+#EXTINF:-1,AXN HD IPTVUltra.com [1280x720]
+http://144.217.76.96:8003/live/armindo/armindo/857.ts
+#EXTINF:-1,SPORT TV 5 HD IPTVUltra.com [720x576]
+http://144.217.76.96:8003/live/armindo/armindo/1523.ts
+#EXTINF:-1,TV CINE 2 Mobile IPTVUltra.com [1440x1088]
+http://144.217.76.96:8003/live/armindo/armindo/1451.ts
+#EXTINF:-1,SPORTING TV IPTVUltra.com [720x576]
+http://144.217.76.96:8003/live/armindo/armindo/859.ts
+#EXTINF:-1,TVI 24 Mobile IPTVUltra.com [720x576]
+http://144.217.76.96:8003/live/armindo/armindo/1443.ts
+#EXTINF:-1,SPORT TV 4 HD IPTVUltra.com [720x576]
+http://144.217.76.96:8003/live/armindo/armindo/1145.ts
+#EXTINF:-1,HOLLYWOOD IPTVUltra.com [720x576]
+http://144.217.76.96:8003/live/armindo/armindo/872.ts
+#EXTINF:-1,AXN Mobile IPTVUltra.com [1280x720]
+http://144.217.76.96:8003/live/armindo/armindo/1456.ts
+#EXTINF:-1,RTP 3 IPTVUltra.com [720x576]
+http://144.217.76.96:8003/live/armindo/armindo/886.ts
+#EXTINF:-1,HOLLYWOOD Mobile IPTVUltra.com [720x576]
+http://144.217.76.96:8003/live/armindo/armindo/1438.ts
+#EXTINF:-1,TV CINE 1 Mobile IPTVUltra.com [1280x720]
+http://144.217.76.96:8003/live/armindo/armindo/1452.ts
+#EXTINF:-1,BTV Mobile IPTVUltra.com [640x368]
+http://144.217.76.96:8003/live/armindo/armindo/1442.ts
+#EXTINF:-1,FOX HD IPTVUltra.com [1280x720]
+http://144.217.76.96:8003/live/armindo/armindo/1081.ts
+#EXTINF:-1,TV CINE 2 IPTVUltra.com [1440x1088]
+http://144.217.76.96:8003/live/armindo/armindo/1086.ts
+#EXTINF:-1,SPORT TV 4 IPTVUltra.com [720x576]
+http://144.217.76.96:8003/live/armindo/armindo/874.ts
+#EXTINF:-1,AMC IPTVUltra.com [704x576]
+http://144.217.76.96:8003/live/armindo/armindo/1096.ts
+#EXTINF:-1,SPORT TV 3 IPTVUltra.com [720x576]
+http://144.217.76.96:8003/live/armindo/armindo/876.ts
+#EXTINF:-1,SPORT TV 2 HD IPTVUltra.com [1280x720]
+http://144.217.76.96:8003/live/armindo/armindo/1069.ts
+#EXTINF:-1,TV CINE 3 IPTVUltra.com [1280x720]
+http://144.217.76.96:8003/live/armindo/armindo/1088.ts
+#EXTINF:-1,SPORT TV + HD IPTVUltra.com [720x576]
+http://144.217.76.96:8003/live/armindo/armindo/1520.ts
+#EXTINF:-1,AMC Mobile IPTVUltra.com [1280x720]
+http://144.217.76.96:8003/live/armindo/armindo/1453.ts
+#EXTINF:-1,SPORT TV 2 IPTVUltra.com [720x576]
+http://144.217.76.96:8003/live/armindo/armindo/879.ts
+#EXTINF:-1,AXN WHITE IPTVUltra.com [720x576]
+http://144.217.76.96:8003/live/armindo/armindo/1129.ts
+#EXTINF:-1,BTV HD IPTVUltra.com [720x576]
+http://144.217.76.96:8003/live/armindo/armindo/1065.ts
+#EXTINF:-1,SPORT TV 5 IPTVUltra.com [720x576]
+http://144.217.76.96:8003/live/armindo/armindo/861.ts
+#EXTINF:-1,FOX MOVIES IPTVUltra.com [720x576]
+http://144.217.76.96:8003/live/armindo/armindo/863.ts
+#EXTINF:-1,PORTO CANAL IPTVUltra.com [720x576]
+http://144.217.76.96:8003/live/armindo/armindo/888.ts
+#EXTINF:-1,SPORT TV 2 Mobile IPTVUltra.com [720x576]
+http://144.217.76.96:8003/live/armindo/armindo/1439.ts
+#EXTINF:-1,TV CINE 1 IPTVUltra.com [1280x720]
+http://144.217.76.96:8003/live/armindo/armindo/1084.ts
+#EXTINF:-1,AMC HD IPTVUltra.com [1280x720]
+http://144.217.76.96:8003/live/armindo/armindo/866.ts
+#EXTINF:-1,FOX MOVIES Mobile IPTVUltra.com [720x576]
+http://144.217.76.96:8003/live/armindo/armindo/1445.ts
+#EXTINF:-1,RTP 3 Mobile IPTVUltra.com [720x576]
+http://144.217.76.96:8003/live/armindo/armindo/1444.ts
+#EXTINF:-1,SPORT TV 3 HD IPTVUltra.com [1440x1088]
+http://144.217.76.96:8003/live/armindo/armindo/1070.ts
+#EXTINF:-1,TV CINE 1 HD IPTVUltra.com [1440x1088]
+http://144.217.76.96:8003/live/armindo/armindo/1085.ts
+#EXTINF:-1,HOLLYWOOD HD IPTVUltra.com [720x576]
+http://144.217.76.96:8003/live/armindo/armindo/1083.ts
+#EXTINF:-1,TV CINE 2 HD IPTVUltra.com [1920x1088]
+http://144.217.76.96:8003/live/armindo/armindo/1087.ts
+#EXTINF:-1,Sport TV 1 Mobile IPTVUltra.com [640x368]
+http://144.217.76.96:8003/live/armindo/armindo/1396.ts
+#EXTINF:-1,TV CINE 3 HD IPTVUltra.com [1280x720]
+http://144.217.76.96:8003/live/armindo/armindo/1303.ts
+#EXTINF:-1,TV SERIES HD IPTVUltra.com [1440x1088]
+http://144.217.76.96:8003/live/armindo/armindo/1526.ts
+#EXTINF:-1,MOV IPTVUltra.com [1920x1088]
+http://144.217.76.96:8003/live/armindo/armindo/1075.ts
+#EXTINF:-1,SYFY IPTVUltra.com [1920x1088]
+http://144.217.76.96:8003/live/armindo/armindo/1090.ts
+#EXTINF:-1,CINEMUNDO IPTVUltra.com [640x368]
+http://144.217.76.96:8003/live/armindo/armindo/1527.ts
+#EXTINF:-1,SIC CARAS IPTVUltra.com [720x576]
+http://144.217.76.96:8003/live/armindo/armindo/1524.ts
+#EXTINF:-1,SIC RADICAL IPTVUltra.com [720x576]
+http://144.217.76.96:8003/live/armindo/armindo/1092.ts
+#EXTINF:-1,SYFY HD IPTVUltra.com [1920x1088]
+http://144.217.76.96:8003/live/armindo/armindo/1289.ts
+#EXTINF:-1,TV GLOBO PREMIUM IPTVUltra.com [720x576]
+http://144.217.76.96:8003/live/armindo/armindo/878.ts
+#EXTINF:-1,TVI FICCÃO IPTVUltra.com [720x576]
+http://144.217.76.96:8003/live/armindo/armindo/1400.ts
+#EXTINF:-1,TV CINE 4 IPTVUltra.com [1920x1088]
+http://144.217.76.96:8003/live/armindo/armindo/1089.ts
+#EXTINF:-1,MOTORVISION HD IPTVUltra.com [720x576]
+http://144.217.76.96:8003/live/armindo/armindo/1521.ts
+#EXTINF:-1,EUROSPORT 1 IPTVUltra.com [720x576]
+http://144.217.76.96:8003/live/armindo/armindo/1133.ts
+#EXTINF:-1,CNN IPTVUltra.com [720x576]
+http://144.217.76.96:8003/live/armindo/armindo/856.ts
+#EXTINF:-1,RTP MEMORIA IPTVUltra.com [640x368]
+http://144.217.76.96:8003/live/armindo/armindo/1093.ts
+#EXTINF:-1,TV CINE 4 HD IPTVUltra.com [1920x1088]
+http://144.217.76.96:8003/live/armindo/armindo/1304.ts
+#EXTINF:-1,EUROSPORT 1 HD IPTVUltra.com [1280x720]
+http://144.217.76.96:8003/live/armindo/armindo/1290.ts
+#EXTINF:-1,NAT GEO WILD IPTVUltra.com [720x576]
+http://144.217.76.96:8003/live/armindo/armindo/889.ts
+#EXTINF:-1,FRANCE 24 IPTVUltra.com [720x576]
+http://144.217.76.96:8003/live/armindo/armindo/862.ts
+#EXTINF:-1,SIC MULHER IPTVUltra.com [720x576]
+http://144.217.76.96:8003/live/armindo/armindo/864.ts
+#EXTINF:-1,TVI REALITY IPTVUltra.com [720x576]
+http://144.217.76.96:8003/live/armindo/armindo/865.ts
+#EXTINF:-1,ODISSEIA IPTVUltra.com [720x576]
+http://144.217.76.96:8003/live/armindo/armindo/868.ts
+#EXTINF:-1,A BOLA TV IPTVUltra.com [640x368]
+http://144.217.76.96:8003/live/armindo/armindo/1094.ts
+#EXTINF:-1,KOMBAT SPORT IPTVUltra.com [720x576]
+http://144.217.76.96:8003/live/armindo/armindo/1528.ts
+#EXTINF:-1,CANAL HISTORIA Mobile IPTVUltra.com [720x576]
+http://144.217.76.96:8003/live/armindo/armindo/1457.ts
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD IPTVUltra.com [1440x1088]
+http://144.217.76.96:8003/live/armindo/armindo/1077.ts
+#EXTINF:-1,DISCOVERY CHANNEL Mobile IPTVUltra.com [720x576]
+http://144.217.76.96:8003/live/armindo/armindo/1455.ts
+#EXTINF:-1,TRAVEL CHANNEL IPTVUltra.com [1920x1088]
+http://144.217.76.96:8003/live/armindo/armindo/1061.ts
+#EXTINF:-1,DISCOVERY CHANNEL IPTVUltra.com [720x576]
+http://144.217.76.96:8003/live/armindo/armindo/869.ts
+#EXTINF:-1,CANAL HISTORIA IPTVUltra.com [720x576]
+http://144.217.76.96:8003/live/armindo/armindo/870.ts
+#EXTINF:-1,DISCOVERY SHOWCASE HD IPTVUltra.com [1920x1088]
+http://144.217.76.96:8003/live/armindo/armindo/1131.ts
+#EXTINF:-1,ODISSEIA Mobile IPTVUltra.com [720x576]
+http://144.217.76.96:8003/live/armindo/armindo/1440.ts
+#EXTINF:-1,CAÇAVISION IPTVUltra.com [720x576]
+http://144.217.76.96:8003/live/armindo/armindo/1098.ts
+#EXTINF:-1,CAÇA E PESCA  IPTVUltra.com [720x576]
+http://144.217.76.96:8003/live/armindo/armindo/1097.ts
+#EXTINF:-1,AXN BLACK HD IPTVUltra.com [1920x1088]
+http://144.217.76.96:8003/live/armindo/armindo/1522.ts
+#EXTINF:-1,FOX CRIME IPTVUltra.com [720x576]
+http://144.217.76.96:8003/live/armindo/armindo/1080.ts
+#EXTINF:-1,CBS REALITY IPTVUltra.com [720x576]
+http://144.217.76.96:8003/live/armindo/armindo/1525.ts
+#EXTINF:-1,TRACE URBAN IPTVUltra.com [720x576]
+http://144.217.76.96:8003/live/armindo/armindo/1518.ts
+#EXTINF:-1,TOROS TV IPTVUltra.com [720x576]
+http://144.217.76.96:8003/live/armindo/armindo/1519.ts
+#EXTINF:-1,FOX COMEDY HD IPTVUltra.com [720x576]
+http://144.217.76.96:8003/live/armindo/armindo/1079.ts
+#EXTINF:-1,E! ENTERTAINMENT IPTVUltra.com [720x576]
+http://144.217.76.96:8003/live/armindo/armindo/881.ts
+#EXTINF:-1,CANAL Q IPTVUltra.com [720x576]
+http://144.217.76.96:8003/live/armindo/armindo/1101.ts
+#EXTINF:-1,A&E IPTVUltra.com [720x576]
+http://144.217.76.96:8003/live/armindo/armindo/1095.ts
+#EXTINF:-1,MTV PORTUGAL IPTVUltra.com [720x576]
+http://144.217.76.96:8003/live/armindo/armindo/871.ts
+#EXTINF:-1,VH1 IPTVUltra.com [704x576]
+http://144.217.76.96:8003/live/armindo/armindo/1062.ts
+#EXTINF:-1,MTV DANCE IPTVUltra.com [1920x1088]
+http://144.217.76.96:8003/live/armindo/armindo/1076.ts
+#EXTINF:-1,SIC K IPTVUltra.com [1920x1088]
+http://144.217.76.96:8003/live/armindo/armindo/1091.ts
+#EXTINF:-1,FOX LIFE HD IPTVUltra.com [720x576]
+http://144.217.76.96:8003/live/armindo/armindo/1082.ts
+#EXTINF:-1,NICKELODEON IPTVUltra.com [1920x1088]
+http://144.217.76.96:8003/live/armindo/armindo/1078.ts
+#EXTINF:-1,CANAL PANDA IPTVUltra.com [720x576]
+http://144.217.76.96:8003/live/armindo/armindo/884.ts
+#EXTINF:-1,TLC IPTVUltra.com [720x576]
+http://144.217.76.96:8003/live/armindo/armindo/1068.ts
+#EXTINF:-1,JIM JAM IPTVUltra.com [720x576]
+http://144.217.76.96:8003/live/armindo/armindo/1300.ts
+#EXTINF:-1,CANAL PANDA Mobile IPTVUltra.com [720x576]
+http://144.217.76.96:8003/live/armindo/armindo/1436.ts
+#EXTINF:-1,DISNEY CHANNEL IPTVUltra.com [720x576]
+http://144.217.76.96:8003/live/armindo/armindo/1102.ts
+#EXTINF:-1,DISNEY JUNIOR IPTVUltra.com [720x576]
+http://144.217.76.96:8003/live/armindo/armindo/860.ts
+#EXTINF:-1,PANDA BIGGS IPTVUltra.com [720x576]
+http://144.217.76.96:8003/live/armindo/armindo/1139.ts
+#EXTINF:-1,CARTOON NETWORK IPTVUltra.com [720x576]
+http://144.217.76.96:8003/live/armindo/armindo/1291.ts
+#EXTINF:-1,CMTV IPTVUltra.com [720x576]
+http://144.217.76.96:8003/live/moreira/moreira/887.ts
+#EXTINF:-1,TV CINE 1 IPTVUltra.com [1280x720]
+http://144.217.76.96:8003/live/moreira/moreira/1084.ts
+#EXTINF:-1,TV CINE 1 Mobile IPTVUltra.com [1280x720]
+http://144.217.76.96:8003/live/moreira/moreira/1452.ts
+#EXTINF:-1,SPORT TV 3 IPTVUltra.com [720x576]
+http://144.217.76.96:8003/live/moreira/moreira/876.ts
+#EXTINF:-1,AMC Mobile IPTVUltra.com [1280x720]
+http://144.217.76.96:8003/live/moreira/moreira/1453.ts
+#EXTINF:-1,HOLLYWOOD Mobile IPTVUltra.com [720x576]
+http://144.217.76.96:8003/live/moreira/moreira/1438.ts
+#EXTINF:-1,TV CINE 3 HD IPTVUltra.com [1280x720]
+http://144.217.76.96:8003/live/moreira/moreira/1303.ts
+#EXTINF:-1,FOX MOVIES Mobile IPTVUltra.com [720x576]
+http://144.217.76.96:8003/live/moreira/moreira/1445.ts
+#EXTINF:-1,TV CINE 2 Mobile IPTVUltra.com [1440x1088]
+http://144.217.76.96:8003/live/moreira/moreira/1451.ts
+#EXTINF:-1,TV CINE 3 IPTVUltra.com [1280x720]
+http://144.217.76.96:8003/live/moreira/moreira/1088.ts
+#EXTINF:-1,TVI REALITY IPTVUltra.com [720x576]
+http://144.217.76.96:8003/live/moreira/moreira/865.ts
+#EXTINF:-1,SIC MULHER IPTVUltra.com [720x576]
+http://144.217.76.96:8003/live/moreira/moreira/864.ts
+#EXTINF:-1,TV GLOBO PREMIUM IPTVUltra.com [720x576]
+http://144.217.76.96:8003/live/moreira/moreira/878.ts
+#EXTINF:-1,SIC CARAS IPTVUltra.com [720x576]
+http://144.217.76.96:8003/live/moreira/moreira/1524.ts
+#EXTINF:-1,SIC RADICAL IPTVUltra.com [720x576]
+http://144.217.76.96:8003/live/moreira/moreira/1092.ts
+#EXTINF:-1,RTP MEMORIA IPTVUltra.com [640x368]
+http://144.217.76.96:8003/live/moreira/moreira/1093.ts
+#EXTINF:-1,FRANCE 24 IPTVUltra.com [720x576]
+http://144.217.76.96:8003/live/moreira/moreira/862.ts
+#EXTINF:-1,CNN IPTVUltra.com [720x576]
+http://144.217.76.96:8003/live/moreira/moreira/856.ts
+#EXTINF:-1,DISCOVERY CHANNEL Mobile IPTVUltra.com [720x576]
+http://144.217.76.96:8003/live/moreira/moreira/1455.ts
+#EXTINF:-1,MOTORVISION HD IPTVUltra.com [720x576]
+http://144.217.76.96:8003/live/moreira/moreira/1521.ts
+#EXTINF:-1,AMC HD IPTVUltra.com [1280x720]
+http://144.217.76.96:8003/live/moreira/moreira/866.ts
+#EXTINF:-1,CAÇA E PESCA  IPTVUltra.com [720x576]
+http://144.217.76.96:8003/live/moreira/moreira/1097.ts
+#EXTINF:-1,CAÇAVISION IPTVUltra.com [720x576]
+http://144.217.76.96:8003/live/moreira/moreira/1098.ts
+#EXTINF:-1,NAT GEO WILD IPTVUltra.com [720x576]
+http://144.217.76.96:8003/live/moreira/moreira/889.ts
+#EXTINF:-1,ODISSEIA Mobile IPTVUltra.com [720x576]
+http://144.217.76.96:8003/live/moreira/moreira/1440.ts
+#EXTINF:-1,CBS REALITY IPTVUltra.com [720x576]
+http://144.217.76.96:8003/live/moreira/moreira/1525.ts
+#EXTINF:-1,TV CINE 4 IPTVUltra.com [1920x1088]
+http://144.217.76.96:8003/live/moreira/moreira/1089.ts
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD IPTVUltra.com [1440x1088]
+http://144.217.76.96:8003/live/moreira/moreira/1077.ts
+#EXTINF:-1,TVI FICCÃO IPTVUltra.com [720x576]
+http://144.217.76.96:8003/live/moreira/moreira/1400.ts
+#EXTINF:-1,RTP 3 Mobile IPTVUltra.com [720x576]
+http://144.217.76.96:8003/live/moreira/moreira/1444.ts
+#EXTINF:-1,TRAVEL CHANNEL IPTVUltra.com [1920x1088]
+http://144.217.76.96:8003/live/moreira/moreira/1061.ts
+#EXTINF:-1,FOX COMEDY HD IPTVUltra.com [720x576]
+http://144.217.76.96:8003/live/moreira/moreira/1079.ts
+#EXTINF:-1,TV CINE 4 HD IPTVUltra.com [1920x1088]
+http://144.217.76.96:8003/live/moreira/moreira/1304.ts
+#EXTINF:-1,SYFY HD IPTVUltra.com [1920x1088]
+http://144.217.76.96:8003/live/moreira/moreira/1289.ts
+#EXTINF:-1,FOX CRIME IPTVUltra.com [720x576]
+http://144.217.76.96:8003/live/moreira/moreira/1080.ts
+#EXTINF:-1,AXN BLACK HD IPTVUltra.com [1920x1088]
+http://144.217.76.96:8003/live/moreira/moreira/1522.ts
+#EXTINF:-1,CANAL HISTORIA Mobile IPTVUltra.com [720x576]
+http://144.217.76.96:8003/live/moreira/moreira/1457.ts
+#EXTINF:-1,A BOLA TV IPTVUltra.com [640x368]
+http://144.217.76.96:8003/live/moreira/moreira/1094.ts
+#EXTINF:-1,EUROSPORT 1 HD IPTVUltra.com [1280x720]
+http://144.217.76.96:8003/live/moreira/moreira/1290.ts
+#EXTINF:-1,SYFY IPTVUltra.com [1920x1088]
+http://144.217.76.96:8003/live/moreira/moreira/1090.ts
+#EXTINF:-1,CINEMUNDO IPTVUltra.com [640x368]
+http://144.217.76.96:8003/live/moreira/moreira/1527.ts
+#EXTINF:-1,DISCOVERY SHOWCASE HD IPTVUltra.com [1920x1088]
+http://144.217.76.96:8003/live/moreira/moreira/1131.ts
+#EXTINF:-1,CANAL HISTORIA IPTVUltra.com [720x576]
+http://144.217.76.96:8003/live/moreira/moreira/870.ts
+#EXTINF:-1,TOROS TV IPTVUltra.com [720x576]
+http://144.217.76.96:8003/live/moreira/moreira/1519.ts
+#EXTINF:-1,ODISSEIA IPTVUltra.com [720x576]
+http://144.217.76.96:8003/live/moreira/moreira/868.ts
+#EXTINF:-1,KOMBAT SPORT IPTVUltra.com [720x576]
+http://144.217.76.96:8003/live/moreira/moreira/1528.ts
+#EXTINF:-1,EUROSPORT 1 IPTVUltra.com [720x576]
+http://144.217.76.96:8003/live/moreira/moreira/1133.ts
+#EXTINF:-1,TRACE URBAN IPTVUltra.com [720x576]
+http://144.217.76.96:8003/live/moreira/moreira/1518.ts
+#EXTINF:-1,DISCOVERY CHANNEL IPTVUltra.com [720x576]
+http://144.217.76.96:8003/live/moreira/moreira/869.ts
+#EXTINF:-1,E! ENTERTAINMENT IPTVUltra.com [720x576]
+http://144.217.76.96:8003/live/moreira/moreira/881.ts
+#EXTINF:-1,SPORT TV 4 IPTVUltra.com [720x576]
+http://144.217.76.96:8003/live/moreira/moreira/874.ts
+#EXTINF:-1,A&E IPTVUltra.com [720x576]
+http://144.217.76.96:8003/live/moreira/moreira/1095.ts
+#EXTINF:-1,CANAL Q IPTVUltra.com [720x576]
+http://144.217.76.96:8003/live/moreira/moreira/1101.ts
+#EXTINF:-1,MTV DANCE IPTVUltra.com [1920x1088]
+http://144.217.76.96:8003/live/moreira/moreira/1076.ts
+#EXTINF:-1,SPORT TV 1 IPTVUltra.com [720x576]
+http://144.217.76.96:8003/live/moreira/moreira/867.ts
+#EXTINF:-1,FOX LIFE HD IPTVUltra.com [720x576]
+http://144.217.76.96:8003/live/moreira/moreira/1082.ts
+#EXTINF:-1,SIC K IPTVUltra.com [1920x1088]
+http://144.217.76.96:8003/live/moreira/moreira/1091.ts
+#EXTINF:-1,TV SERIES HD IPTVUltra.com [1440x1088]
+http://144.217.76.96:8003/live/moreira/moreira/1526.ts
+#EXTINF:-1,CANAL PANDA IPTVUltra.com [720x576]
+http://144.217.76.96:8003/live/moreira/moreira/884.ts
+#EXTINF:-1,CANAL PANDA Mobile IPTVUltra.com [720x576]
+http://144.217.76.96:8003/live/moreira/moreira/1436.ts
+#EXTINF:-1,CARTOON NETWORK IPTVUltra.com [720x576]
+http://144.217.76.96:8003/live/moreira/moreira/1291.ts
+#EXTINF:-1,DISNEY JUNIOR IPTVUltra.com [720x576]
+http://144.217.76.96:8003/live/moreira/moreira/860.ts
+#EXTINF:-1,NICKELODEON IPTVUltra.com [1920x1088]
+http://144.217.76.96:8003/live/moreira/moreira/1078.ts
+#EXTINF:-1,JIM JAM IPTVUltra.com [720x576]
+http://144.217.76.96:8003/live/moreira/moreira/1300.ts
+#EXTINF:-1,PANDA BIGGS IPTVUltra.com [720x576]
+http://144.217.76.96:8003/live/moreira/moreira/1139.ts
+#EXTINF:-1,SIC NOTICIAS Mobile IPTVUltra.com [720x576]
+http://144.217.76.96:8003/live/moreira/moreira/1437.ts
+#EXTINF:-1,BTV Mobile IPTVUltra.com [640x368]
+http://144.217.76.96:8003/live/moreira/moreira/1442.ts
+#EXTINF:-1,HOLLYWOOD IPTVUltra.com [720x576]
+http://144.217.76.96:8003/live/moreira/moreira/872.ts
+#EXTINF:-1,SPORT TV 4 HD IPTVUltra.com [720x576]
+http://144.217.76.96:8003/live/moreira/moreira/1145.ts
+#EXTINF:-1,VH1 IPTVUltra.com [704x576]
+http://144.217.76.96:8003/live/moreira/moreira/1062.ts
+#EXTINF:-1,TV CINE 2 HD IPTVUltra.com [1920x1088]
+http://144.217.76.96:8003/live/moreira/moreira/1087.ts
+#EXTINF:-1,MOV IPTVUltra.com [1920x1088]
+http://144.217.76.96:8003/live/moreira/moreira/1075.ts
+#EXTINF:-1,DISNEY CHANNEL IPTVUltra.com [720x576]
+http://144.217.76.96:8003/live/moreira/moreira/1102.ts
+#EXTINF:-1,TVI Mobile IPTVUltra.com [640x368]
+http://144.217.76.96:8003/live/moreira/moreira/1401.ts
+#EXTINF:-1,SPORTING TV IPTVUltra.com [720x576]
+http://144.217.76.96:8003/live/moreira/moreira/859.ts
+#EXTINF:-1,AXN HD IPTVUltra.com [1280x720]
+http://144.217.76.96:8003/live/moreira/moreira/857.ts
+#EXTINF:-1,SPORT TV 2 IPTVUltra.com [720x576]
+http://144.217.76.96:8003/live/moreira/moreira/879.ts
+#EXTINF:-1,BTV HD IPTVUltra.com [720x576]
+http://144.217.76.96:8003/live/moreira/moreira/1065.ts
+#EXTINF:-1,SPORT TV 5 HD IPTVUltra.com [720x576]
+http://144.217.76.96:8003/live/moreira/moreira/1523.ts
+#EXTINF:-1,FOX HD IPTVUltra.com [1280x720]
+http://144.217.76.96:8003/live/moreira/moreira/1081.ts
+#EXTINF:-1,MTV PORTUGAL IPTVUltra.com [720x576]
+http://144.217.76.96:8003/live/moreira/moreira/871.ts
+#EXTINF:-1,BTV IPTVUltra.com [720x576]
+http://144.217.76.96:8003/live/moreira/moreira/885.ts
+#EXTINF:-1,FOX MOVIES IPTVUltra.com [720x576]
+http://144.217.76.96:8003/live/moreira/moreira/863.ts
+#EXTINF:-1,Sport TV 1 Mobile IPTVUltra.com [640x368]
+http://144.217.76.96:8003/live/moreira/moreira/1396.ts
+#EXTINF:-1,RTP 3 IPTVUltra.com [720x576]
+http://144.217.76.96:8003/live/moreira/moreira/886.ts
+#EXTINF:-1,AMC IPTVUltra.com [704x576]
+http://144.217.76.96:8003/live/moreira/moreira/1096.ts
+#EXTINF:-1,SPORT TV + HD IPTVUltra.com [720x576]
+http://144.217.76.96:8003/live/moreira/moreira/1520.ts
+#EXTINF:-1,AXN Mobile IPTVUltra.com [1280x720]
+http://144.217.76.96:8003/live/moreira/moreira/1456.ts
+#EXTINF:-1,RTP 1 IPTVUltra.com [720x576]
+http://144.217.76.96:8003/live/moreira/moreira/890.ts
+#EXTINF:-1,HOLLYWOOD HD IPTVUltra.com [720x576]
+http://144.217.76.96:8003/live/moreira/moreira/1083.ts
+#EXTINF:-1,SPORT TV 2 HD IPTVUltra.com [1280x720]
+http://144.217.76.96:8003/live/moreira/moreira/1069.ts
+#EXTINF:-1,SPORT TV 1 HD IPTVUltra.com [1280x720]
+http://144.217.76.96:8003/live/moreira/moreira/858.ts
+#EXTINF:-1,TLC IPTVUltra.com [720x576]
+http://144.217.76.96:8003/live/moreira/moreira/1068.ts
+#EXTINF:-1,RTP 2 IPTVUltra.com [720x576]
+http://144.217.76.96:8003/live/moreira/moreira/882.ts
+#EXTINF:-1,SPORT TV 2 Mobile IPTVUltra.com [720x576]
+http://144.217.76.96:8003/live/moreira/moreira/1439.ts
+#EXTINF:-1,SPORT TV 3 HD IPTVUltra.com [1440x1088]
+http://144.217.76.96:8003/live/moreira/moreira/1070.ts
+#EXTINF:-1,RTP 1 Mobile IPTVUltra.com [720x576]
+http://144.217.76.96:8003/live/moreira/moreira/1402.ts
+#EXTINF:-1,SIC NOTICIAS IPTVUltra.com [720x576]
+http://144.217.76.96:8003/live/moreira/moreira/883.ts
+#EXTINF:-1,SIC IPTVUltra.com [720x576]
+http://144.217.76.96:8003/live/moreira/moreira/880.ts
+#EXTINF:-1,TV CINE 2 IPTVUltra.com [1440x1088]
+http://144.217.76.96:8003/live/moreira/moreira/1086.ts
+#EXTINF:-1,TVI 24 Mobile IPTVUltra.com [720x576]
+http://144.217.76.96:8003/live/moreira/moreira/1443.ts
+#EXTINF:-1,TVI IPTVUltra.com [720x576]
+http://144.217.76.96:8003/live/moreira/moreira/891.ts
+#EXTINF:-1,SPORT TV 3 Mobile IPTVUltra.com [720x576]
+http://144.217.76.96:8003/live/moreira/moreira/1441.ts
+#EXTINF:-1,PORTO CANAL IPTVUltra.com [720x576]
+http://144.217.76.96:8003/live/moreira/moreira/888.ts
+#EXTINF:-1,RTP 2 Mobile IPTVUltra.com [720x576]
+http://144.217.76.96:8003/live/moreira/moreira/1454.ts
+#EXTINF:-1,TVI 24 IPTVUltra.com [720x576]
+http://144.217.76.96:8003/live/moreira/moreira/877.ts
+#EXTINF:-1,TV CINE 1 HD IPTVUltra.com [1440x1088]
+http://144.217.76.96:8003/live/moreira/moreira/1085.ts
+#EXTINF:-1,SPORT TV 5 IPTVUltra.com [720x576]
+http://144.217.76.96:8003/live/moreira/moreira/861.ts
+#EXTINF:-1,AXN WHITE IPTVUltra.com [720x576]
+http://144.217.76.96:8003/live/moreira/moreira/1129.ts
+#EXTINF:-1,MAIS GLOBOSAT IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/b021e4/b0221e/645.ts
+#EXTINF:-1,A&E IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/b021e4/b0221e/703.ts
+#EXTINF:-1,ANIMAL PLANET IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/b021e4/b0221e/702.ts
+#EXTINF:-1,ARTE 1 IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/b021e4/b0221e/700.ts
+#EXTINF:-1,ANIMAL PLANET HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/b021e4/b0221e/769.ts
+#EXTINF:-1,AXN IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/b021e4/b0221e/699.ts
+#EXTINF:-1,APARECIDA IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/b021e4/b0221e/701.ts
+#EXTINF:-1,BOOMERANG IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/b021e4/b0221e/692.ts
+#EXTINF:-1,DISCOVERY TURBO IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/b021e4/b0221e/677.ts
+#EXTINF:-1,E! IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/b021e4/b0221e/673.ts
+#EXTINF:-1,EI MAXX IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/b021e4/b0221e/672.ts
+#EXTINF:-1,DISCOVERY KIDS IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/b021e4/b0221e/679.ts
+#EXTINF:-1,DISCOVERY TURBO HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/b021e4/b0221e/759.ts
+#EXTINF:-1,ESPN+ HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/b021e4/b0221e/755.ts
+#EXTINF:-1,EI MAXX 2 HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/b021e4/b0221e/757.ts
+#EXTINF:-1,DISCOVERY SCIENCE IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/b021e4/b0221e/678.ts
+#EXTINF:-1,CANAL BRASIL IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/b021e4/b0221e/691.ts
+#EXTINF:-1,BAND HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/b021e4/b0221e/767.ts
+#EXTINF:-1,BAND SPORTS IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/b021e4/b0221e/696.ts
+#EXTINF:-1,BIS HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/b021e4/b0221e/765.ts
+#EXTINF:-1,BAND SPORTS HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/b021e4/b0221e/766.ts
+#EXTINF:-1,DISCOVERY H&H HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/b021e4/b0221e/761.ts
+#EXTINF:-1,DISNEY JR IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/b021e4/b0221e/675.ts
+#EXTINF:-1,CANAL RURAL IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/b021e4/b0221e/690.ts
+#EXTINF:-1,DISNEY IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/b021e4/b0221e/676.ts
+#EXTINF:-1,DISNEY XD IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/b021e4/b0221e/674.ts
+#EXTINF:-1,CINEMAX IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/b021e4/b0221e/686.ts
+#EXTINF:-1,CANAL SONY IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/b021e4/b0221e/689.ts
+#EXTINF:-1,COMBATE IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/b021e4/b0221e/685.ts
+#EXTINF:-1,CANAL SONY HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/b021e4/b0221e/764.ts
+#EXTINF:-1,CANCAO NOVA IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/b021e4/b0221e/688.ts
+#EXTINF:-1,CURTA! IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/b021e4/b0221e/683.ts
+#EXTINF:-1,EI MAXX HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/b021e4/b0221e/756.ts
+#EXTINF:-1,BAND NEWS IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/b021e4/b0221e/697.ts
+#EXTINF:-1,COMEDY CENTRAL IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/b021e4/b0221e/684.ts
+#EXTINF:-1,COMBATE HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/b021e4/b0221e/763.ts
+#EXTINF:-1,AXN HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/b021e4/b0221e/768.ts
+#EXTINF:-1,DISCOVERY CHANNEL HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/b021e4/b0221e/762.ts
+#EXTINF:-1,ESPN IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/b021e4/b0221e/670.ts
+#EXTINF:-1,BIS IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/b021e4/b0221e/693.ts
+#EXTINF:-1,DISCOVERY CIVILIZATION IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/b021e4/b0221e/681.ts
+#EXTINF:-1,DISCOVERY WORLD HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/b021e4/b0221e/758.ts
+#EXTINF:-1,CARTOON NETWORK HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/b021e4/b0221e/704.ts
+#EXTINF:-1,BANDEIRANTES IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/b021e4/b0221e/695.ts
+#EXTINF:-1,CARTOON NETWORK IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/b021e4/b0221e/687.ts
+#EXTINF:-1,DISCOVERY THEATER HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/b021e4/b0221e/760.ts
+#EXTINF:-1,EI MAXX 2 IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/b021e4/b0221e/671.ts
+#EXTINF:-1,DISCOVERY H&H IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/b021e4/b0221e/680.ts
+#EXTINF:-1,ESPN BRASIL IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/b021e4/b0221e/669.ts
+#EXTINF:-1,DISCOVERY CHANNEL IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/b021e4/b0221e/682.ts
+#EXTINF:-1,ESPN HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/b021e4/b0221e/753.ts
+#EXTINF:-1,ESPN BRASIL HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/b021e4/b0221e/754.ts
+#EXTINF:-1,ESPORTE INTERATIVO HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/b021e4/b0221e/752.ts
+#EXTINF:-1,FISH TV IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/b021e4/b0221e/668.ts
+#EXTINF:-1,FOOD NETWORK IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/b021e4/b0221e/667.ts
+#EXTINF:-1,FOX IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/b021e4/b0221e/666.ts
+#EXTINF:-1,FOX PREMIUM HD 1 IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/b021e4/b0221e/751.ts
+#EXTINF:-1,FOX PREMIUM HD 2 IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/b021e4/b0221e/750.ts
+#EXTINF:-1,FOX HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/b021e4/b0221e/749.ts
+#EXTINF:-1,FOX LIFE IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/b021e4/b0221e/665.ts
+#EXTINF:-1,FOX LIFE HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/b021e4/b0221e/748.ts
+#EXTINF:-1,FOX SPORTS HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/b021e4/b0221e/747.ts
+#EXTINF:-1,FOX SPORTS IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/b021e4/b0221e/664.ts
+#EXTINF:-1,FOX SPORTS 2 IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/b021e4/b0221e/663.ts
+#EXTINF:-1,FOX SPORTS 2 HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/b021e4/b0221e/746.ts
+#EXTINF:-1,FUTURA IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/b021e4/b0221e/662.ts
+#EXTINF:-1,FX IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/b021e4/b0221e/661.ts
+#EXTINF:-1,FX HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/b021e4/b0221e/745.ts
+#EXTINF:-1,GLOBO BRASILIA IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/b021e4/b0221e/566.ts
+#EXTINF:-1,GLOBO MG IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/b021e4/b0221e/567.ts
+#EXTINF:-1,GLOBO RJ IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/b021e4/b0221e/571.ts
+#EXTINF:-1,GLOBO RJ HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/b021e4/b0221e/744.ts
+#EXTINF:-1,GLOBO SP IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/b021e4/b0221e/660.ts
+#EXTINF:-1,GLOBO NEWS IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/b021e4/b0221e/659.ts
+#EXTINF:-1,GLOOB IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/b021e4/b0221e/658.ts
+#EXTINF:-1,GNT IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/b021e4/b0221e/657.ts
+#EXTINF:-1,GNT HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/b021e4/b0221e/743.ts
+#EXTINF:-1,H2 IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/b021e4/b0221e/656.ts
+#EXTINF:-1,H2 HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/b021e4/b0221e/742.ts
+#EXTINF:-1,HBO IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/b021e4/b0221e/655.ts
+#EXTINF:-1,HBO 2 HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/b021e4/b0221e/741.ts
+#EXTINF:-1,HBO FAMILY IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/b021e4/b0221e/654.ts
+#EXTINF:-1,HBO FAMILY HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/b021e4/b0221e/740.ts
+#EXTINF:-1,HBO HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/b021e4/b0221e/739.ts
+#EXTINF:-1,HBO PLUS IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/b021e4/b0221e/653.ts
+#EXTINF:-1,HBO PLUS *E IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/b021e4/b0221e/652.ts
+#EXTINF:-1,HBO PLUS HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/b021e4/b0221e/738.ts
+#EXTINF:-1,HBO SIGNATURE IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/b021e4/b0221e/651.ts
+#EXTINF:-1,HBO SIGNATURE HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/b021e4/b0221e/737.ts
+#EXTINF:-1,HBO 2 IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/b021e4/b0221e/650.ts
+#EXTINF:-1,HISTORY CHANNEL HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/b021e4/b0221e/736.ts
+#EXTINF:-1,IDEAL TV IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/b021e4/b0221e/647.ts
+#EXTINF:-1,ID IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/b021e4/b0221e/648.ts
+#EXTINF:-1,ID HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/b021e4/b0221e/735.ts
+#EXTINF:-1,LIFETIME IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/b021e4/b0221e/646.ts
+#EXTINF:-1,MAX IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/b021e4/b0221e/644.ts
+#EXTINF:-1,MAX PRIME IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/b021e4/b0221e/643.ts
+#EXTINF:-1,MAX PRIME *E IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/b021e4/b0221e/642.ts
+#EXTINF:-1,MAX UP IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/b021e4/b0221e/641.ts
+#EXTINF:-1,MEGAPIX IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/b021e4/b0221e/640.ts
+#EXTINF:-1,MEGAPIX HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/b021e4/b0221e/734.ts
+#EXTINF:-1,MTV IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/b021e4/b0221e/639.ts
+#EXTINF:-1,MULTISHOW IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/b021e4/b0221e/638.ts
+#EXTINF:-1,MULTISHOW HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/b021e4/b0221e/733.ts
+#EXTINF:-1,MUSIC BOX BRASIL IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/b021e4/b0221e/637.ts
+#EXTINF:-1,NATGEO WILD IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/b021e4/b0221e/636.ts
+#EXTINF:-1,NATGEO WILD HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/b021e4/b0221e/732.ts
+#EXTINF:-1,NATIONAL GEOGRAPHIC IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/b021e4/b0221e/635.ts
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/b021e4/b0221e/731.ts
+#EXTINF:-1,NBR IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/b021e4/b0221e/634.ts
+#EXTINF:-1,NICK JR IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/b021e4/b0221e/632.ts
+#EXTINF:-1,NICKELODEON IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/b021e4/b0221e/631.ts
+#EXTINF:-1,NOVO TEMPO IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/b021e4/b0221e/630.ts
+#EXTINF:-1,OFF IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/b021e4/b0221e/629.ts
+#EXTINF:-1,OFF HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/b021e4/b0221e/730.ts
+#EXTINF:-1,PARAMOUNT IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/b021e4/b0221e/628.ts
+#EXTINF:-1,PARAMOUNT HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/b021e4/b0221e/729.ts
+#EXTINF:-1,PLAY TV IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/b021e4/b0221e/627.ts
+#EXTINF:-1,PREMIERE CLUBES HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/b021e4/b0221e/728.ts
+#EXTINF:-1,PREMIERE CLUBES IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/b021e4/b0221e/617.ts
+#EXTINF:-1,PREMIERE 2 IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/b021e4/b0221e/625.ts
+#EXTINF:-1,PREMIERE 2 HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/b021e4/b0221e/727.ts
+#EXTINF:-1,PREMIERE 3 IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/b021e4/b0221e/624.ts
+#EXTINF:-1,PREMIERE 3 HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/b021e4/b0221e/726.ts
+#EXTINF:-1,PREMIERE 4 IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/b021e4/b0221e/623.ts
+#EXTINF:-1,PREMIERE 4 HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/b021e4/b0221e/725.ts
+#EXTINF:-1,PREMIERE 5 IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/b021e4/b0221e/622.ts
+#EXTINF:-1,PREMIERE 5 HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/b021e4/b0221e/724.ts
+#EXTINF:-1,PREMIERE 6 IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/b021e4/b0221e/621.ts
+#EXTINF:-1,PREMIERE 7 IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/b021e4/b0221e/620.ts
+#EXTINF:-1,PREMIERE 8 IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/b021e4/b0221e/619.ts
+#EXTINF:-1,PREMIERE 9 IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/b021e4/b0221e/618.ts
+#EXTINF:-1,PRIME BOX BRASIL IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/b021e4/b0221e/616.ts
+#EXTINF:-1,RBI IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/b021e4/b0221e/615.ts
+#EXTINF:-1,RBS TV POA IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/b021e4/b0221e/614.ts
+#EXTINF:-1,RECORD HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/b021e4/b0221e/723.ts
+#EXTINF:-1,RECORD NEWS IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/b021e4/b0221e/613.ts
+#EXTINF:-1,RECORDTV IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/b021e4/b0221e/612.ts
+#EXTINF:-1,REDE BRASIL IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/b021e4/b0221e/611.ts
+#EXTINF:-1,REDE TV IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/b021e4/b0221e/610.ts
+#EXTINF:-1,REDETV HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/b021e4/b0221e/722.ts
+#EXTINF:-1,REDE VIDA IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/b021e4/b0221e/609.ts
+#EXTINF:-1,SBT IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/b021e4/b0221e/607.ts
+#EXTINF:-1,SBT HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/b021e4/b0221e/721.ts
+#EXTINF:-1,SIC INTERNACIONAL IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/b021e4/b0221e/604.ts
+#EXTINF:-1,SPACE IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/b021e4/b0221e/603.ts
+#EXTINF:-1,SPACE HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/b021e4/b0221e/720.ts
+#EXTINF:-1,SPORTV 2 HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/b021e4/b0221e/719.ts
+#EXTINF:-1,SPORTV 3 HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/b021e4/b0221e/718.ts
+#EXTINF:-1,SPORTV HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/b021e4/b0221e/717.ts
+#EXTINF:-1,SPORTV IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/b021e4/b0221e/602.ts
+#EXTINF:-1,SPORTV 2 IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/b021e4/b0221e/601.ts
+#EXTINF:-1,SPORTV 3 IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/b021e4/b0221e/599.ts
+#EXTINF:-1,STUDIO UNIVERSAL IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/b021e4/b0221e/597.ts
+#EXTINF:-1,SYFY IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/b021e4/b0221e/596.ts
+#EXTINF:-1,TBS IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/b021e4/b0221e/595.ts
+#EXTINF:-1,TBS HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/b021e4/b0221e/716.ts
+#EXTINF:-1,TC ACTION HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/b021e4/b0221e/715.ts
+#EXTINF:-1,TC FUN HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/b021e4/b0221e/714.ts
+#EXTINF:-1,TC PIPOCA HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/b021e4/b0221e/713.ts
+#EXTINF:-1,TC PREMIUM HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/b021e4/b0221e/712.ts
+#EXTINF:-1,TC TOUCH HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/b021e4/b0221e/711.ts
+#EXTINF:-1,TCM IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/b021e4/b0221e/594.ts
+#EXTINF:-1,TC ACTION IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/b021e4/b0221e/593.ts
+#EXTINF:-1,TC CULT IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/b021e4/b0221e/592.ts
+#EXTINF:-1,TC FUN IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/b021e4/b0221e/591.ts
+#EXTINF:-1,TC PIPOCA IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/b021e4/b0221e/590.ts
+#EXTINF:-1,TC PREMIUM IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/b021e4/b0221e/589.ts
+#EXTINF:-1,TC TOUCH IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/b021e4/b0221e/588.ts
+#EXTINF:-1,TERRA VIVA IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/b021e4/b0221e/587.ts
+#EXTINF:-1,THE HISTORY IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/b021e4/b0221e/586.ts
+#EXTINF:-1,TLC IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/b021e4/b0221e/585.ts
+#EXTINF:-1,TNT IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/b021e4/b0221e/584.ts
+#EXTINF:-1,TNT HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/b021e4/b0221e/710.ts
+#EXTINF:-1,TNT SERIES IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/b021e4/b0221e/583.ts
+#EXTINF:-1,TNT SERIES HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/b021e4/b0221e/709.ts
+#EXTINF:-1,TOONCAST IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/b021e4/b0221e/582.ts
+#EXTINF:-1,TRUE TV IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/b021e4/b0221e/581.ts
+#EXTINF:-1,TV ANHANGUERA IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/b021e4/b0221e/568.ts
+#EXTINF:-1,TV BRASIL IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/b021e4/b0221e/580.ts
+#EXTINF:-1,TV CULTURA IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/b021e4/b0221e/579.ts
+#EXTINF:-1,TV RA TIM BUM IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/b021e4/b0221e/578.ts
+#EXTINF:-1,TV TEM BAURU IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/b021e4/b0221e/569.ts
+#EXTINF:-1,TV TEM SOROCABA IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/b021e4/b0221e/570.ts
+#EXTINF:-1,UNIVERSAL CHANNEL IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/b021e4/b0221e/576.ts
+#EXTINF:-1,UNIVERSAL CHANNEL HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/b021e4/b0221e/708.ts
+#EXTINF:-1,VH1 MEGA HITS IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/b021e4/b0221e/575.ts
+#EXTINF:-1,VIVA IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/b021e4/b0221e/574.ts
+#EXTINF:-1,VIVA HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/b021e4/b0221e/707.ts
+#EXTINF:-1,WARNER CHANNEL IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/b021e4/b0221e/573.ts
+#EXTINF:-1,WARNER CHANNEL HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/b021e4/b0221e/705.ts
+#EXTINF:-1,WOOHOO IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/b021e4/b0221e/572.ts
+#EXTINF:-1,EI Maxx HEVC IPTVUltra.com [0x0]
+http://144.217.79.160:8505/live/b021e4/b0221e/2923.ts
+#EXTINF:-1,FX HEVC IPTVUltra.com [0x0]
+http://144.217.79.160:8505/live/b021e4/b0221e/2916.ts
+#EXTINF:-1,HBO HEVC IPTVUltra.com [0x0]
+http://144.217.79.160:8505/live/b021e4/b0221e/2912.ts
+#EXTINF:-1,ID HEVC IPTVUltra.com [0x0]
+http://144.217.79.160:8505/live/b021e4/b0221e/2907.ts
+#EXTINF:-1,NatGeo HEVC IPTVUltra.com [0x0]
+http://144.217.79.160:8505/live/b021e4/b0221e/2904.ts
+#EXTINF:-1,SBT HEVC IPTVUltra.com [1920x1088]
+http://144.217.79.160:8505/live/b021e4/b0221e/2898.ts
+#EXTINF:-1,A&E HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/b021e4/b0221e/2886.ts
+#EXTINF:-1,Canal Brasil HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/b021e4/b0221e/2885.ts
+#EXTINF:-1,Cinemax HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/b021e4/b0221e/2884.ts
+#EXTINF:-1,Discovery Kids HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/b021e4/b0221e/2883.ts
+#EXTINF:-1,Disney Channel HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/b021e4/b0221e/2882.ts
+#EXTINF:-1,E! HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/b021e4/b0221e/2881.ts
+#EXTINF:-1,Food Network HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/b021e4/b0221e/2880.ts
+#EXTINF:-1,Globo News HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/b021e4/b0221e/2879.ts
+#EXTINF:-1,Gloob HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/b021e4/b0221e/2878.ts
+#EXTINF:-1,Life Time HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/b021e4/b0221e/2877.ts
+#EXTINF:-1,Mais Globo Sat HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/b021e4/b0221e/2876.ts
+#EXTINF:-1,MAX HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/b021e4/b0221e/2875.ts
+#EXTINF:-1,Max Prime HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/b021e4/b0221e/2874.ts
+#EXTINF:-1,Max UP HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/b021e4/b0221e/2873.ts
+#EXTINF:-1,MTV HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/b021e4/b0221e/2872.ts
+#EXTINF:-1,Nick HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/b021e4/b0221e/2871.ts
+#EXTINF:-1,Syfy HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/b021e4/b0221e/2869.ts
+#EXTINF:-1,TC Cult HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/b021e4/b0221e/2868.ts
+#EXTINF:-1,TLC HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/b021e4/b0221e/2867.ts
+#EXTINF:-1,Studio Universal HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/b021e4/b0221e/2870.ts
+#EXTINF:-1,VH1 HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/b021e4/b0221e/2866.ts
+#EXTINF:-1,Animal Planet HEVC IPTVUltra.com [0x0]
+http://144.217.79.160:8505/live/b021e4/b0221e/2931.ts
+#EXTINF:-1,AXN HEVC IPTVUltra.com [0x0]
+http://144.217.79.160:8505/live/b021e4/b0221e/2930.ts
+#EXTINF:-1,Band Sports HEVC IPTVUltra.com [0x0]
+http://144.217.79.160:8505/live/b021e4/b0221e/2929.ts
+#EXTINF:-1,Discovery Channel HEVC IPTVUltra.com [1920x1088]
+http://144.217.79.160:8505/live/b021e4/b0221e/2928.ts
+#EXTINF:-1,Discovery Theater HEVC IPTVUltra.com [0x0]
+http://144.217.79.160:8505/live/b021e4/b0221e/2927.ts
+#EXTINF:-1,Discovery Turbo HEVC IPTVUltra.com [0x0]
+http://144.217.79.160:8505/live/b021e4/b0221e/2926.ts
+#EXTINF:-1,Discovery World HEVC IPTVUltra.com [0x0]
+http://144.217.79.160:8505/live/b021e4/b0221e/2925.ts
+#EXTINF:-1,EI Maxx 2 HEVC IPTVUltra.com [0x0]
+http://144.217.79.160:8505/live/b021e4/b0221e/2924.ts
+#EXTINF:-1,ESPN Brasil HEVC IPTVUltra.com [0x0]
+http://144.217.79.160:8505/live/b021e4/b0221e/2922.ts
+#EXTINF:-1,ESPN Plus HEVC IPTVUltra.com [0x0]
+http://144.217.79.160:8505/live/b021e4/b0221e/2921.ts
+#EXTINF:-1,Esporte Interativo HEVC IPTVUltra.com [0x0]
+http://144.217.79.160:8505/live/b021e4/b0221e/2920.ts
+#EXTINF:-1,Fox Life HEVC IPTVUltra.com [0x0]
+http://144.217.79.160:8505/live/b021e4/b0221e/2918.ts
+#EXTINF:-1,Fox Premium 1 HEVC IPTVUltra.com [0x0]
+http://144.217.79.160:8505/live/b021e4/b0221e/2919.ts
+#EXTINF:-1,Fox Sports 2 HEVC IPTVUltra.com [0x0]
+http://144.217.79.160:8505/live/b021e4/b0221e/2917.ts
+#EXTINF:-1,Globo RJ HEVC IPTVUltra.com [0x0]
+http://144.217.79.160:8505/live/b021e4/b0221e/2915.ts
+#EXTINF:-1,GNT HEVC IPTVUltra.com [0x0]
+http://144.217.79.160:8505/live/b021e4/b0221e/2914.ts
+#EXTINF:-1,HBO Family HEVC IPTVUltra.com [0x0]
+http://144.217.79.160:8505/live/b021e4/b0221e/2913.ts
+#EXTINF:-1,HBO Plus HEVC IPTVUltra.com [0x0]
+http://144.217.79.160:8505/live/b021e4/b0221e/2911.ts
+#EXTINF:-1,HBO Signature HEVC IPTVUltra.com [0x0]
+http://144.217.79.160:8505/live/b021e4/b0221e/2910.ts
+#EXTINF:-1,HBO2 HEVC IPTVUltra.com [0x0]
+http://144.217.79.160:8505/live/b021e4/b0221e/2909.ts
+#EXTINF:-1,History 2 HEVC IPTVUltra.com [0x0]
+http://144.217.79.160:8505/live/b021e4/b0221e/2908.ts
+#EXTINF:-1,Megapix HEVC IPTVUltra.com [0x0]
+http://144.217.79.160:8505/live/b021e4/b0221e/2906.ts
+#EXTINF:-1,Multishow HEVC IPTVUltra.com [0x0]
+http://144.217.79.160:8505/live/b021e4/b0221e/2905.ts
+#EXTINF:-1,Paramount HEVC IPTVUltra.com [0x0]
+http://144.217.79.160:8505/live/b021e4/b0221e/2903.ts
+#EXTINF:-1,Premiere 2 HEVC IPTVUltra.com [0x0]
+http://144.217.79.160:8505/live/b021e4/b0221e/2902.ts
+#EXTINF:-1,Premiere 4 HEVC IPTVUltra.com [0x0]
+http://144.217.79.160:8505/live/b021e4/b0221e/2901.ts
+#EXTINF:-1,Premiere 5 HEVC IPTVUltra.com [0x0]
+http://144.217.79.160:8505/live/b021e4/b0221e/2900.ts
+#EXTINF:-1,Premiere Clubes HEVC IPTVUltra.com [0x0]
+http://144.217.79.160:8505/live/b021e4/b0221e/2899.ts
+#EXTINF:-1,Sportv HEVC IPTVUltra.com [0x0]
+http://144.217.79.160:8505/live/b021e4/b0221e/2897.ts
+#EXTINF:-1,TBS HEVC IPTVUltra.com [0x0]
+http://144.217.79.160:8505/live/b021e4/b0221e/2896.ts
+#EXTINF:-1,TC Action HEVC IPTVUltra.com [0x0]
+http://144.217.79.160:8505/live/b021e4/b0221e/2895.ts
+#EXTINF:-1,TC Pipoca HEVC IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/b021e4/b0221e/2894.ts
+#EXTINF:-1,TC Premium HEVC IPTVUltra.com [0x0]
+http://144.217.79.160:8505/live/b021e4/b0221e/2893.ts
+#EXTINF:-1,TC Touch HEVC IPTVUltra.com [0x0]
+http://144.217.79.160:8505/live/b021e4/b0221e/2892.ts
+#EXTINF:-1,TNT HEVC IPTVUltra.com [0x0]
+http://144.217.79.160:8505/live/b021e4/b0221e/2891.ts
+#EXTINF:-1,TNT Series HEVC IPTVUltra.com [0x0]
+http://144.217.79.160:8505/live/b021e4/b0221e/2890.ts
+#EXTINF:-1,Universal Channel HEVC IPTVUltra.com [0x0]
+http://144.217.79.160:8505/live/b021e4/b0221e/2889.ts
+#EXTINF:-1,Warner HEVC IPTVUltra.com [0x0]
+http://144.217.79.160:8505/live/b021e4/b0221e/2887.ts
+#EXTINF:-1,Viva HEVC IPTVUltra.com [0x0]
+http://144.217.79.160:8505/live/b021e4/b0221e/2888.ts
+#EXTINF:-1,XX: SEXTREME IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/b021e4/b0221e/606.ts
+#EXTINF:-1,XX: SEXY HOT IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/b021e4/b0221e/605.ts
+#EXTINF:-1,XXX: BRAZZERS TV EUROPE IPTVUltra.com [720x416]
+http://144.217.79.160:8505/live/b021e4/b0221e/2254.ts
+#EXTINF:-1,XXX: BIZARE TRING IPTVUltra.com [720x576]
+http://144.217.79.160:8505/live/b021e4/b0221e/2256.ts
+#EXTINF:-1,XX: PLAYBOY TV IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/b021e4/b0221e/626.ts
+#EXTINF:-1,XXX: CHANNEL X 3 (digitalb) IPTVUltra.com [864x496]
+http://144.217.79.160:8505/live/b021e4/b0221e/2248.ts
+#EXTINF:-1,XXX: CHANNEL X 2 (digitalb) IPTVUltra.com [720x576]
+http://144.217.79.160:8505/live/b021e4/b0221e/2249.ts
+#EXTINF:-1,XXX: DORCEL IPTVUltra.com [720x416]
+http://144.217.79.160:8505/live/b021e4/b0221e/2246.ts
+#EXTINF:-1,XXX: CENTOXCENTO TV IPTVUltra.com [720x416]
+http://144.217.79.160:8505/live/b021e4/b0221e/2251.ts
+#EXTINF:-1,XXX: ENJOY PREMIUM IPTVUltra.com [544x416]
+http://144.217.79.160:8505/live/b021e4/b0221e/2244.ts
+#EXTINF:-1,XXX: FRENCHLOVER IPTVUltra.com [960x544]
+http://144.217.79.160:8505/live/b021e4/b0221e/2232.ts
+#EXTINF:-1,XXX: PENTHOUSE EUROPE IPTVUltra.com [1920x1088]
+http://144.217.79.160:8505/live/b021e4/b0221e/2218.ts
+#EXTINF:-1,XXX: Maiden van Holland IPTVUltra.com [720x576]
+http://144.217.79.160:8505/live/b021e4/b0221e/2224.ts
+#EXTINF:-1,XXX: PENTHOUSE HD IPTVUltra.com [720x576]
+http://144.217.79.160:8505/live/b021e4/b0221e/2217.ts
+#EXTINF:-1,XXX: JASMIN.TV HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/b021e4/b0221e/2226.ts
+#EXTINF:-1,XXX: HUSTLERXXX IPTVUltra.com [1088x720]
+http://144.217.79.160:8505/live/b021e4/b0221e/2227.ts
+#EXTINF:-1,XXX: RETRO X IPTVUltra.com [1088x720]
+http://144.217.79.160:8505/live/b021e4/b0221e/2207.ts
+#EXTINF:-1,XXX: PLAYBOY TV HD  18 IPTVUltra.com [1088x720]
+http://144.217.79.160:8505/live/b021e4/b0221e/2212.ts
+#EXTINF:-1,XXX: EXOTICA TV IPTVUltra.com [864x480]
+http://144.217.79.160:8505/live/b021e4/b0221e/2234.ts
+#EXTINF:-1,XXX: PlayBoy TV IPTVUltra.com [720x576]
+http://144.217.79.160:8505/live/b021e4/b0221e/2213.ts
+#EXTINF:-1,XXX: EROTIC 8 IPTVUltra.com [720x576]
+http://144.217.79.160:8505/live/b021e4/b0221e/2236.ts
+#EXTINF:-1,XXX: EROXXX IPTVUltra.com [720x576]
+http://144.217.79.160:8505/live/b021e4/b0221e/2235.ts
+#EXTINF:-1,XXX: FAKE TAXI IPTVUltra.com [768x432]
+http://144.217.79.160:8505/live/b021e4/b0221e/2233.ts
+#EXTINF:-1,XXX: EROTIC 5 IPTVUltra.com [720x576]
+http://144.217.79.160:8505/live/b021e4/b0221e/2239.ts
+#EXTINF:-1,XXX: EROTIC 6 IPTVUltra.com [720x576]
+http://144.217.79.160:8505/live/b021e4/b0221e/2238.ts
+#EXTINF:-1,XXX: EROTIC 1 IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/b021e4/b0221e/2243.ts
+#EXTINF:-1,XXX: EROTIC 4 IPTVUltra.com [720x576]
+http://144.217.79.160:8505/live/b021e4/b0221e/2240.ts
+#EXTINF:-1,XXX: EROTIC 3 IPTVUltra.com [720x576]
+http://144.217.79.160:8505/live/b021e4/b0221e/2241.ts
+#EXTINF:-1,XXX: EROTIC 2 IPTVUltra.com [720x576]
+http://144.217.79.160:8505/live/b021e4/b0221e/2242.ts
+#EXTINF:-1,XXX: PRIVATE IPTVUltra.com [720x576]
+http://144.217.79.160:8505/live/b021e4/b0221e/2209.ts
+#EXTINF:-1,XXX: DUSK IPTVUltra.com [720x416]
+http://144.217.79.160:8505/live/b021e4/b0221e/2245.ts
+#EXTINF:-1,DISCOVERY H&H HEVC IPTVUltra.com [0x0]
+http://144.217.79.160:8505/live/b021e4/b0221e/2935.ts
+#EXTINF:-1,XXX: PASSIEXXX IPTVUltra.com [720x416]
+http://144.217.79.160:8505/live/b021e4/b0221e/2219.ts
+#EXTINF:-1,XXX: Reality Sex IPTVUltra.com [864x496]
+http://144.217.79.160:8505/live/b021e4/b0221e/2208.ts
+#EXTINF:-1,XXX: RUSSKAYA NOCH IPTVUltra.com [720x576]
+http://144.217.79.160:8505/live/b021e4/b0221e/2205.ts
+#EXTINF:-1,XXX: RK HD IPTVUltra.com [720x576]
+http://144.217.79.160:8505/live/b021e4/b0221e/2206.ts
+#EXTINF:-1,XXX: SEX SEX HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/b021e4/b0221e/2202.ts
+#EXTINF:-1,XXX: SIRINA IPTVUltra.com [864x480]
+http://144.217.79.160:8505/live/b021e4/b0221e/2199.ts
+#EXTINF:-1,XXX: SEX STATION IPTVUltra.com [720x576]
+http://144.217.79.160:8505/live/b021e4/b0221e/2201.ts
+#EXTINF:-1,XXX: SIRINA 1 IPTVUltra.com [720x400]
+http://144.217.79.160:8505/live/b021e4/b0221e/2198.ts
+#EXTINF:-1,XXX: SCT IPTVUltra.com [720x416]
+http://144.217.79.160:8505/live/b021e4/b0221e/2204.ts
+#EXTINF:-1,XXX: Lethal Hardcore IPTVUltra.com [720x576]
+http://144.217.79.160:8505/live/b021e4/b0221e/2225.ts
+#EXTINF:-1,XXX: SPICE TV IPTVUltra.com [720x576]
+http://144.217.79.160:8505/live/b021e4/b0221e/2195.ts
+#EXTINF:-1,XXX: SUPERONE IPTVUltra.com [720x576]
+http://144.217.79.160:8505/live/b021e4/b0221e/2194.ts
+#EXTINF:-1,XXX: Sex Channel IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/b021e4/b0221e/2203.ts
+#EXTINF:-1,XXX: SIRINA 3 IPTVUltra.com [720x400]
+http://144.217.79.160:8505/live/b021e4/b0221e/2196.ts
+#EXTINF:-1,XXX: XXL HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/b021e4/b0221e/2190.ts
+#EXTINF:-1,XXX: XXL IPTVUltra.com [720x576]
+http://144.217.79.160:8505/live/b021e4/b0221e/2191.ts
+#EXTINF:-1,XXX: PLEASURE IPTVUltra.com [1920x1088]
+http://144.217.79.160:8505/live/b021e4/b0221e/2210.ts
+#EXTINF:-1,(PT)A&E IPTVUltra.com [640x368]
+http://144.217.79.160:8505/live/b021e4/b0221e/1337.ts
+#EXTINF:-1,(PT)AXN BLACK HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/b021e4/b0221e/1332.ts
+#EXTINF:-1,(PT)AMC HD IPTVUltra.com [720x576]
+http://144.217.79.160:8505/live/b021e4/b0221e/1336.ts
+#EXTINF:-1,(PT)BENFICA TV 1 IPTVUltra.com [720x576]
+http://144.217.79.160:8505/live/b021e4/b0221e/1328.ts
+#EXTINF:-1,(PT)AXN WHITE HD IPTVUltra.com [720x576]
+http://144.217.79.160:8505/live/b021e4/b0221e/1330.ts
+#EXTINF:-1,(PT)BIGGS IPTVUltra.com [720x576]
+http://144.217.79.160:8505/live/b021e4/b0221e/1325.ts
+#EXTINF:-1,(PT)DISNEY CHANNEL IPTVUltra.com [720x576]
+http://144.217.79.160:8505/live/b021e4/b0221e/1315.ts
+#EXTINF:-1,(PT)DOG TV IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/b021e4/b0221e/1313.ts
+#EXTINF:-1,(PT)EuroNews IPTVUltra.com [720x576]
+http://144.217.79.160:8505/live/b021e4/b0221e/1309.ts
+#EXTINF:-1,(PT)EuroSport IPTVUltra.com [720x576]
+http://144.217.79.160:8505/live/b021e4/b0221e/1311.ts
+#EXTINF:-1,(PT)EUROSPORT 1 HD IPTVUltra.com [720x576]
+http://144.217.79.160:8505/live/b021e4/b0221e/1308.ts
+#EXTINF:-1,(PT)AXN HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/b021e4/b0221e/1334.ts
+#EXTINF:-1,(PT)EuroSport 2 IPTVUltra.com [720x576]
+http://144.217.79.160:8505/live/b021e4/b0221e/1310.ts
+#EXTINF:-1,(PT)FOX Comedy HD IPTVUltra.com [720x576]
+http://144.217.79.160:8505/live/b021e4/b0221e/1220.ts
+#EXTINF:-1,(PT)FOX Crime IPTVUltra.com [720x576]
+http://144.217.79.160:8505/live/b021e4/b0221e/1219.ts
+#EXTINF:-1,(PT)FOX HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/b021e4/b0221e/1222.ts
+#EXTINF:-1,(PT)FOX LIFE HD IPTVUltra.com [720x576]
+http://144.217.79.160:8505/live/b021e4/b0221e/1215.ts
+#EXTINF:-1,(PT)MOTORSVISION HD IPTVUltra.com [720x576]
+http://144.217.79.160:8505/live/b021e4/b0221e/1297.ts
+#EXTINF:-1,(PT)MTV IPTVUltra.com [720x576]
+http://144.217.79.160:8505/live/b021e4/b0221e/1298.ts
+#EXTINF:-1,(PT)National Geographic Channel IPTVUltra.com [720x576]
+http://144.217.79.160:8505/live/b021e4/b0221e/1296.ts
+#EXTINF:-1,(PT)Odisseia IPTVUltra.com [720x576]
+http://144.217.79.160:8505/live/b021e4/b0221e/1293.ts
+#EXTINF:-1,(PT)REGIÕES TV IPTVUltra.com [640x368]
+http://144.217.79.160:8505/live/b021e4/b0221e/1289.ts
+#EXTINF:-1,(PT)RTP Memória IPTVUltra.com [720x576]
+http://144.217.79.160:8505/live/b021e4/b0221e/1282.ts
+#EXTINF:-1,(PT)SIC CARAS IPTVUltra.com [720x576]
+http://144.217.79.160:8505/live/b021e4/b0221e/1266.ts
+#EXTINF:-1,(PT)SIC Radical IPTVUltra.com [720x576]
+http://144.217.79.160:8505/live/b021e4/b0221e/1262.ts
+#EXTINF:-1,(PT)SPORT TV 1 IPTVUltra.com [720x576]
+http://144.217.79.160:8505/live/b021e4/b0221e/1278.ts
+#EXTINF:-1,(PT)SPORT TV 1 FULL HD IPTVUltra.com [1440x1088]
+http://144.217.79.160:8505/live/b021e4/b0221e/1276.ts
+#EXTINF:-1,(PT)SPORT TV 2 IPTVUltra.com [720x576]
+http://144.217.79.160:8505/live/b021e4/b0221e/1275.ts
+#EXTINF:-1,(PT)SPORT TV 3 IPTVUltra.com [720x576]
+http://144.217.79.160:8505/live/b021e4/b0221e/1273.ts
+#EXTINF:-1,(PT)SPORT.TV 3 HD IPTVUltra.com [1088x720]
+http://144.217.79.160:8505/live/b021e4/b0221e/1272.ts
+#EXTINF:-1,(PT)SPORT.TV 5 HD IPTVUltra.com [720x576]
+http://144.217.79.160:8505/live/b021e4/b0221e/1268.ts
+#EXTINF:-1,(PT)SPORT.TV Mais HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/b021e4/b0221e/1267.ts
+#EXTINF:-1,(PT)Sporting TV IPTVUltra.com [720x576]
+http://144.217.79.160:8505/live/b021e4/b0221e/1261.ts
+#EXTINF:-1,(PT)SyFy IPTVUltra.com [704x400]
+http://144.217.79.160:8505/live/b021e4/b0221e/1259.ts
+#EXTINF:-1,(PT)SYFY HD IPTVUltra.com [1088x720]
+http://144.217.79.160:8505/live/b021e4/b0221e/1258.ts
+#EXTINF:-1,(PT)TLC IPTVUltra.com [640x368]
+http://144.217.79.160:8505/live/b021e4/b0221e/1256.ts
+#EXTINF:-1,(PT)TOROS TV IPTVUltra.com [720x576]
+http://144.217.79.160:8505/live/b021e4/b0221e/1242.ts
+#EXTINF:-1,(PT)RECORD NEWS IPTVUltra.com [720x576]
+http://144.217.79.160:8505/live/b021e4/b0221e/1281.ts
+#EXTINF:-1,(PT)PFC IPTVUltra.com [720x576]
+http://144.217.79.160:8505/live/b021e4/b0221e/1292.ts
+#EXTINF:-1,(PT)NATIONAL GEOGRAPHIC WILD IPTVUltra.com [720x576]
+http://144.217.79.160:8505/live/b021e4/b0221e/1294.ts
+#EXTINF:-1,(PT)PORTO CANAL IPTVUltra.com [720x576]
+http://144.217.79.160:8505/live/b021e4/b0221e/1291.ts
+#EXTINF:-1,(PT)TVCINE 1 HD IPTVUltra.com [1088x720]
+http://144.217.79.160:8505/live/b021e4/b0221e/1253.ts
+#EXTINF:-1,(PT)TVI 24 IPTVUltra.com [720x576]
+http://144.217.79.160:8505/live/b021e4/b0221e/1245.ts
+#EXTINF:-1,(PT)SPORT.TV 1 HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/b021e4/b0221e/1277.ts
+#EXTINF:-1,(PT)TVSéries IPTVUltra.com [720x576]
+http://144.217.79.160:8505/live/b021e4/b0221e/1247.ts
+#EXTINF:-1,(PT)TVSéries HD IPTVUltra.com [720x576]
+http://144.217.79.160:8505/live/b021e4/b0221e/1246.ts
+#EXTINF:-1,Globo Internacional IPTVUltra.com [720x576]
+http://144.217.79.160:8505/live/b021e4/b0221e/1240.ts
+#EXTINF:-1,NHK IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/b021e4/b0221e/633.ts
+#EXTINF:-1,TVE IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/b021e4/b0221e/577.ts
+#EXTINF:-1,AR: Tyc Sports IPTVUltra.com [704x400]
+http://144.217.79.160:8505/live/b021e4/b0221e/1199.ts
+#EXTINF:-1,(PT)TVI REALITY IPTVUltra.com [720x576]
+http://144.217.79.160:8505/live/b021e4/b0221e/1243.ts
+#EXTINF:-1,(PT)SPORT TV 4 IPTVUltra.com [720x576]
+http://144.217.79.160:8505/live/b021e4/b0221e/1271.ts
+#EXTINF:-1,Bloomberg IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/b021e4/b0221e/1234.ts
+#EXTINF:-1,(PT)TVC 2 IPTVUltra.com [720x576]
+http://144.217.79.160:8505/live/b021e4/b0221e/1252.ts
+#EXTINF:-1,US: Bloomberg TV  1080p HD IPTVUltra.com [1920x1088]
+http://144.217.79.160:8505/live/b021e4/b0221e/1396.ts
+#EXTINF:-1,US: |VIP| Bein Sports USA HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/b021e4/b0221e/1398.ts
+#EXTINF:-1,US: |VIP| CNN HD IPTVUltra.com [640x368]
+http://144.217.79.160:8505/live/b021e4/b0221e/1397.ts
+#EXTINF:-1,USA | A&E HD IPTVUltra.com [640x368]
+http://144.217.79.160:8505/live/b021e4/b0221e/1481.ts
+#EXTINF:-1,USA | ABC HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/b021e4/b0221e/1480.ts
+#EXTINF:-1,USA | AFN NEWS IPTVUltra.com [720x480]
+http://144.217.79.160:8505/live/b021e4/b0221e/1478.ts
+#EXTINF:-1,USA | AFN PRIME ATLANTIC IPTVUltra.com [720x480]
+http://144.217.79.160:8505/live/b021e4/b0221e/1477.ts
+#EXTINF:-1,USA | AFN PRIME PACIFIC IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/b021e4/b0221e/1476.ts
+#EXTINF:-1,USA | AFN PULSE IPTVUltra.com [720x480]
+http://144.217.79.160:8505/live/b021e4/b0221e/1475.ts
+#EXTINF:-1,USA | AFN SPECTRUM IPTVUltra.com [720x480]
+http://144.217.79.160:8505/live/b021e4/b0221e/1474.ts
+#EXTINF:-1,USA | AFN SPORTS IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/b021e4/b0221e/1473.ts
+#EXTINF:-1,USA | AFN SPORTS 2 IPTVUltra.com [720x480]
+http://144.217.79.160:8505/live/b021e4/b0221e/1472.ts
+#EXTINF:-1,USA | Animal Planet HD IPTVUltra.com [1920x1088]
+http://144.217.79.160:8505/live/b021e4/b0221e/1470.ts
+#EXTINF:-1,USA | CBS HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/b021e4/b0221e/1467.ts
+#EXTINF:-1,USA | CI HD IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/b021e4/b0221e/1466.ts
+#EXTINF:-1,USA | CINEMAX HD IPTVUltra.com [640x368]
+http://144.217.79.160:8505/live/b021e4/b0221e/1465.ts
+#EXTINF:-1,USA | Cinemax MoreMax HD IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/b021e4/b0221e/1464.ts
+#EXTINF:-1,USA | Cinemax ThrillerMax HD IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/b021e4/b0221e/1463.ts
+#EXTINF:-1,USA | CNBC-US (nbc at 3pm) IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/b021e4/b0221e/1462.ts
+#EXTINF:-1,USA | CNN HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/b021e4/b0221e/1461.ts
+#EXTINF:-1,USA | Comedy Central IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/b021e4/b0221e/1460.ts
+#EXTINF:-1,USA | CPAC IPTVUltra.com [720x576]
+http://144.217.79.160:8505/live/b021e4/b0221e/1459.ts
+#EXTINF:-1,USA | CW HD IPTVUltra.com [720x576]
+http://144.217.79.160:8505/live/b021e4/b0221e/1457.ts
+#EXTINF:-1,USA | Discovery HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/b021e4/b0221e/1456.ts
+#EXTINF:-1,USA | DISCOVERY SCIENCE IPTVUltra.com [544x576]
+http://144.217.79.160:8505/live/b021e4/b0221e/1455.ts
+#EXTINF:-1,USA | DIY NETWORK HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/b021e4/b0221e/1454.ts
+#EXTINF:-1,USA | ESPN IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/b021e4/b0221e/1452.ts
+#EXTINF:-1,USA | ESPN 2 IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/b021e4/b0221e/1451.ts
+#EXTINF:-1,USA | Food Network HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/b021e4/b0221e/1449.ts
+#EXTINF:-1,USA | Fox Sports 2 HD IPTVUltra.com [1024x576]
+http://144.217.79.160:8505/live/b021e4/b0221e/1444.ts
+#EXTINF:-1,USA | Golf HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/b021e4/b0221e/1440.ts
+#EXTINF:-1,USA | Fox IPTVUltra.com [720x240]
+http://144.217.79.160:8505/live/b021e4/b0221e/1448.ts
+#EXTINF:-1,USA | HallMark HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/b021e4/b0221e/1438.ts
+#EXTINF:-1,USA | HBO Comedy (nbc at 3pm) IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/b021e4/b0221e/1436.ts
+#EXTINF:-1,USA | HGTV IPTVUltra.com [640x368]
+http://144.217.79.160:8505/live/b021e4/b0221e/1430.ts
+#EXTINF:-1,USA | NBC GOLF IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/b021e4/b0221e/1422.ts
+#EXTINF:-1,USA | NBC Sports Network HD IPTVUltra.com [688x480]
+http://144.217.79.160:8505/live/b021e4/b0221e/1421.ts
+#EXTINF:-1,USA | NFL NETWORK IPTVUltra.com [1024x576]
+http://144.217.79.160:8505/live/b021e4/b0221e/1420.ts
+#EXTINF:-1,USA | NHL Network (nbc goalrush at 3pm) IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/b021e4/b0221e/1419.ts
+#EXTINF:-1,USA | PAC 12 WASHINGTON HD IPTVUltra.com [1920x1088]
+http://144.217.79.160:8505/live/b021e4/b0221e/1418.ts
+#EXTINF:-1,USA | H2 IPTVUltra.com [544x480]
+http://144.217.79.160:8505/live/b021e4/b0221e/1439.ts
+#EXTINF:-1,USA | FreeForm HD IPTVUltra.com [1920x1088]
+http://144.217.79.160:8505/live/b021e4/b0221e/1443.ts
+#EXTINF:-1,USA | USA NETWORK IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/b021e4/b0221e/1400.ts
+#EXTINF:-1,USA | Sports Net Ontario HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/b021e4/b0221e/1411.ts
+#EXTINF:-1,USA | Investigation Discovery HD IPTVUltra.com [720x576]
+http://144.217.79.160:8505/live/b021e4/b0221e/1428.ts
+#EXTINF:-1,MAIS GLOBOSAT IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/francis/francis/645.ts
+#EXTINF:-1,A&E IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/francis/francis/703.ts
+#EXTINF:-1,ANIMAL PLANET IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/francis/francis/702.ts
+#EXTINF:-1,ANIMAL PLANET HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/francis/francis/769.ts
+#EXTINF:-1,AXN IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/francis/francis/699.ts
+#EXTINF:-1,ARTE 1 IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/francis/francis/700.ts
+#EXTINF:-1,BAND NEWS IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/francis/francis/697.ts
+#EXTINF:-1,BANDEIRANTES IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/francis/francis/695.ts
+#EXTINF:-1,BOOMERANG IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/francis/francis/692.ts
+#EXTINF:-1,BIS HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/francis/francis/765.ts
+#EXTINF:-1,BIS IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/francis/francis/693.ts
+#EXTINF:-1,CANAL BRASIL IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/francis/francis/691.ts
+#EXTINF:-1,BAND SPORTS HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/francis/francis/766.ts
+#EXTINF:-1,BAND HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/francis/francis/767.ts
+#EXTINF:-1,CANAL RURAL IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/francis/francis/690.ts
+#EXTINF:-1,BAND SPORTS IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/francis/francis/696.ts
+#EXTINF:-1,APARECIDA IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/francis/francis/701.ts
+#EXTINF:-1,AXN HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/francis/francis/768.ts
+#EXTINF:-1,CANAL SONY HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/francis/francis/764.ts
+#EXTINF:-1,CANAL SONY IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/francis/francis/689.ts
+#EXTINF:-1,CURTA! IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/francis/francis/683.ts
+#EXTINF:-1,COMBATE HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/francis/francis/763.ts
+#EXTINF:-1,COMEDY CENTRAL IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/francis/francis/684.ts
+#EXTINF:-1,DISCOVERY CHANNEL IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/francis/francis/682.ts
+#EXTINF:-1,DISCOVERY CHANNEL HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/francis/francis/762.ts
+#EXTINF:-1,DISCOVERY TURBO IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/francis/francis/677.ts
+#EXTINF:-1,EI MAXX HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/francis/francis/756.ts
+#EXTINF:-1,ESPN BRASIL IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/francis/francis/669.ts
+#EXTINF:-1,CARTOON NETWORK IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/francis/francis/687.ts
+#EXTINF:-1,DISCOVERY CIVILIZATION IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/francis/francis/681.ts
+#EXTINF:-1,DISCOVERY WORLD HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/francis/francis/758.ts
+#EXTINF:-1,ESPN+ HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/francis/francis/755.ts
+#EXTINF:-1,EI MAXX 2 HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/francis/francis/757.ts
+#EXTINF:-1,CANCAO NOVA IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/francis/francis/688.ts
+#EXTINF:-1,ESPN IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/francis/francis/670.ts
+#EXTINF:-1,DISNEY IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/francis/francis/676.ts
+#EXTINF:-1,DISCOVERY H&H HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/francis/francis/761.ts
+#EXTINF:-1,DISCOVERY SCIENCE IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/francis/francis/678.ts
+#EXTINF:-1,DISNEY JR IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/francis/francis/675.ts
+#EXTINF:-1,EI MAXX 2 IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/francis/francis/671.ts
+#EXTINF:-1,DISNEY XD IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/francis/francis/674.ts
+#EXTINF:-1,DISCOVERY KIDS IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/francis/francis/679.ts
+#EXTINF:-1,CARTOON NETWORK HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/francis/francis/704.ts
+#EXTINF:-1,DISCOVERY H&H IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/francis/francis/680.ts
+#EXTINF:-1,COMBATE IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/francis/francis/685.ts
+#EXTINF:-1,EI MAXX IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/francis/francis/672.ts
+#EXTINF:-1,E! IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/francis/francis/673.ts
+#EXTINF:-1,DISCOVERY TURBO HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/francis/francis/759.ts
+#EXTINF:-1,ESPN BRASIL HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/francis/francis/754.ts
+#EXTINF:-1,CINEMAX IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/francis/francis/686.ts
+#EXTINF:-1,DISCOVERY THEATER HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/francis/francis/760.ts
+#EXTINF:-1,ESPN HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/francis/francis/753.ts
+#EXTINF:-1,ESPORTE INTERATIVO HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/francis/francis/752.ts
+#EXTINF:-1,FISH TV IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/francis/francis/668.ts
+#EXTINF:-1,FOOD NETWORK IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/francis/francis/667.ts
+#EXTINF:-1,FOX IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/francis/francis/666.ts
+#EXTINF:-1,FOX PREMIUM HD 1 IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/francis/francis/751.ts
+#EXTINF:-1,FOX PREMIUM HD 2 IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/francis/francis/750.ts
+#EXTINF:-1,FOX HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/francis/francis/749.ts
+#EXTINF:-1,FOX LIFE IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/francis/francis/665.ts
+#EXTINF:-1,FOX LIFE HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/francis/francis/748.ts
+#EXTINF:-1,FOX SPORTS 2 HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/francis/francis/746.ts
+#EXTINF:-1,FOX SPORTS 2 IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/francis/francis/663.ts
+#EXTINF:-1,FOX SPORTS HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/francis/francis/747.ts
+#EXTINF:-1,FOX SPORTS IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/francis/francis/664.ts
+#EXTINF:-1,FUTURA IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/francis/francis/662.ts
+#EXTINF:-1,FX IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/francis/francis/661.ts
+#EXTINF:-1,FX HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/francis/francis/745.ts
+#EXTINF:-1,GLOBO BRASILIA IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/francis/francis/566.ts
+#EXTINF:-1,GLOBO MG IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/francis/francis/567.ts
+#EXTINF:-1,GLOBO RJ IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/francis/francis/571.ts
+#EXTINF:-1,GLOBO RJ HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/francis/francis/744.ts
+#EXTINF:-1,GLOBO SP IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/francis/francis/660.ts
+#EXTINF:-1,GLOBO NEWS IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/francis/francis/659.ts
+#EXTINF:-1,GLOOB IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/francis/francis/658.ts
+#EXTINF:-1,GNT IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/francis/francis/657.ts
+#EXTINF:-1,GNT HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/francis/francis/743.ts
+#EXTINF:-1,H2 IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/francis/francis/656.ts
+#EXTINF:-1,H2 HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/francis/francis/742.ts
+#EXTINF:-1,HBO IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/francis/francis/655.ts
+#EXTINF:-1,HBO 2 HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/francis/francis/741.ts
+#EXTINF:-1,HBO FAMILY IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/francis/francis/654.ts
+#EXTINF:-1,HBO FAMILY HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/francis/francis/740.ts
+#EXTINF:-1,HBO HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/francis/francis/739.ts
+#EXTINF:-1,HBO PLUS IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/francis/francis/653.ts
+#EXTINF:-1,HBO PLUS *E IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/francis/francis/652.ts
+#EXTINF:-1,HBO 2 IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/francis/francis/650.ts
+#EXTINF:-1,ID IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/francis/francis/648.ts
+#EXTINF:-1,LIFETIME IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/francis/francis/646.ts
+#EXTINF:-1,MAX PRIME *E IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/francis/francis/642.ts
+#EXTINF:-1,MAX UP IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/francis/francis/641.ts
+#EXTINF:-1,MEGAPIX IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/francis/francis/640.ts
+#EXTINF:-1,MEGAPIX HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/francis/francis/734.ts
+#EXTINF:-1,MTV IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/francis/francis/639.ts
+#EXTINF:-1,MULTISHOW IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/francis/francis/638.ts
+#EXTINF:-1,MULTISHOW HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/francis/francis/733.ts
+#EXTINF:-1,MUSIC BOX BRASIL IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/francis/francis/637.ts
+#EXTINF:-1,NATGEO WILD IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/francis/francis/636.ts
+#EXTINF:-1,NATGEO WILD HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/francis/francis/732.ts
+#EXTINF:-1,NATIONAL GEOGRAPHIC IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/francis/francis/635.ts
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/francis/francis/731.ts
+#EXTINF:-1,NBR IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/francis/francis/634.ts
+#EXTINF:-1,NICK JR IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/francis/francis/632.ts
+#EXTINF:-1,NICKELODEON IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/francis/francis/631.ts
+#EXTINF:-1,NOVO TEMPO IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/francis/francis/630.ts
+#EXTINF:-1,HBO SIGNATURE HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/francis/francis/737.ts
+#EXTINF:-1,MAX IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/francis/francis/644.ts
+#EXTINF:-1,MAX PRIME IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/francis/francis/643.ts
+#EXTINF:-1,OFF IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/francis/francis/629.ts
+#EXTINF:-1,OFF HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/francis/francis/730.ts
+#EXTINF:-1,PARAMOUNT IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/francis/francis/628.ts
+#EXTINF:-1,PARAMOUNT HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/francis/francis/729.ts
+#EXTINF:-1,PLAY TV IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/francis/francis/627.ts
+#EXTINF:-1,PREMIERE CLUBES HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/francis/francis/728.ts
+#EXTINF:-1,HBO SIGNATURE IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/francis/francis/651.ts
+#EXTINF:-1,PREMIERE CLUBES IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/francis/francis/617.ts
+#EXTINF:-1,PREMIERE 2 IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/francis/francis/625.ts
+#EXTINF:-1,PREMIERE 2 HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/francis/francis/727.ts
+#EXTINF:-1,PREMIERE 3 IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/francis/francis/624.ts
+#EXTINF:-1,ID HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/francis/francis/735.ts
+#EXTINF:-1,PREMIERE 3 HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/francis/francis/726.ts
+#EXTINF:-1,PREMIERE 4 IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/francis/francis/623.ts
+#EXTINF:-1,HBO PLUS HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/francis/francis/738.ts
+#EXTINF:-1,PREMIERE 4 HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/francis/francis/725.ts
+#EXTINF:-1,PREMIERE 5 IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/francis/francis/622.ts
+#EXTINF:-1,IDEAL TV IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/francis/francis/647.ts
+#EXTINF:-1,HISTORY CHANNEL HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/francis/francis/736.ts
+#EXTINF:-1,PREMIERE 5 HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/francis/francis/724.ts
+#EXTINF:-1,PREMIERE 6 IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/francis/francis/621.ts
+#EXTINF:-1,PREMIERE 7 IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/francis/francis/620.ts
+#EXTINF:-1,PREMIERE 8 IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/francis/francis/619.ts
+#EXTINF:-1,PREMIERE 9 IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/francis/francis/618.ts
+#EXTINF:-1,PRIME BOX BRASIL IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/francis/francis/616.ts
+#EXTINF:-1,RBS TV POA IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/francis/francis/614.ts
+#EXTINF:-1,RECORD HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/francis/francis/723.ts
+#EXTINF:-1,RECORD NEWS IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/francis/francis/613.ts
+#EXTINF:-1,RECORDTV IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/francis/francis/612.ts
+#EXTINF:-1,REDE BRASIL IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/francis/francis/611.ts
+#EXTINF:-1,REDE TV IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/francis/francis/610.ts
+#EXTINF:-1,REDETV HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/francis/francis/722.ts
+#EXTINF:-1,REDE VIDA IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/francis/francis/609.ts
+#EXTINF:-1,SBT IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/francis/francis/607.ts
+#EXTINF:-1,SBT HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/francis/francis/721.ts
+#EXTINF:-1,SIC INTERNACIONAL IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/francis/francis/604.ts
+#EXTINF:-1,SPACE IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/francis/francis/603.ts
+#EXTINF:-1,SPACE HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/francis/francis/720.ts
+#EXTINF:-1,SPORTV 2 HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/francis/francis/719.ts
+#EXTINF:-1,SPORTV 3 HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/francis/francis/718.ts
+#EXTINF:-1,SPORTV HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/francis/francis/717.ts
+#EXTINF:-1,RBI IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/francis/francis/615.ts
+#EXTINF:-1,SPORTV 2 IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/francis/francis/601.ts
+#EXTINF:-1,SPORTV 3 IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/francis/francis/599.ts
+#EXTINF:-1,STUDIO UNIVERSAL IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/francis/francis/597.ts
+#EXTINF:-1,SYFY IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/francis/francis/596.ts
+#EXTINF:-1,TBS IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/francis/francis/595.ts
+#EXTINF:-1,TBS HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/francis/francis/716.ts
+#EXTINF:-1,TC ACTION HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/francis/francis/715.ts
+#EXTINF:-1,TC FUN HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/francis/francis/714.ts
+#EXTINF:-1,TC PIPOCA HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/francis/francis/713.ts
+#EXTINF:-1,TC PREMIUM HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/francis/francis/712.ts
+#EXTINF:-1,TC TOUCH HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/francis/francis/711.ts
+#EXTINF:-1,TCM IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/francis/francis/594.ts
+#EXTINF:-1,TC ACTION IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/francis/francis/593.ts
+#EXTINF:-1,TC CULT IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/francis/francis/592.ts
+#EXTINF:-1,TC FUN IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/francis/francis/591.ts
+#EXTINF:-1,TC PIPOCA IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/francis/francis/590.ts
+#EXTINF:-1,SPORTV IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/francis/francis/602.ts
+#EXTINF:-1,TC TOUCH IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/francis/francis/588.ts
+#EXTINF:-1,TERRA VIVA IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/francis/francis/587.ts
+#EXTINF:-1,THE HISTORY IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/francis/francis/586.ts
+#EXTINF:-1,TLC IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/francis/francis/585.ts
+#EXTINF:-1,TNT IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/francis/francis/584.ts
+#EXTINF:-1,TNT HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/francis/francis/710.ts
+#EXTINF:-1,TNT SERIES HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/francis/francis/709.ts
+#EXTINF:-1,TRUE TV IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/francis/francis/581.ts
+#EXTINF:-1,TV BRASIL IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/francis/francis/580.ts
+#EXTINF:-1,TV TEM SOROCABA IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/francis/francis/570.ts
+#EXTINF:-1,UNIVERSAL CHANNEL HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/francis/francis/708.ts
+#EXTINF:-1,VH1 MEGA HITS IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/francis/francis/575.ts
+#EXTINF:-1,VIVA HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/francis/francis/707.ts
+#EXTINF:-1,WARNER CHANNEL HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/francis/francis/705.ts
+#EXTINF:-1,WOOHOO IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/francis/francis/572.ts
+#EXTINF:-1,AXN HEVC IPTVUltra.com [0x0]
+http://144.217.79.160:8505/live/francis/francis/2930.ts
+#EXTINF:-1,Band Sports HEVC IPTVUltra.com [0x0]
+http://144.217.79.160:8505/live/francis/francis/2929.ts
+#EXTINF:-1,Discovery Channel HEVC IPTVUltra.com [1920x1088]
+http://144.217.79.160:8505/live/francis/francis/2928.ts
+#EXTINF:-1,TC PREMIUM IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/francis/francis/589.ts
+#EXTINF:-1,Discovery Turbo HEVC IPTVUltra.com [0x0]
+http://144.217.79.160:8505/live/francis/francis/2926.ts
+#EXTINF:-1,Discovery World HEVC IPTVUltra.com [0x0]
+http://144.217.79.160:8505/live/francis/francis/2925.ts
+#EXTINF:-1,ESPN Brasil HEVC IPTVUltra.com [0x0]
+http://144.217.79.160:8505/live/francis/francis/2922.ts
+#EXTINF:-1,ESPN Plus HEVC IPTVUltra.com [0x0]
+http://144.217.79.160:8505/live/francis/francis/2921.ts
+#EXTINF:-1,Esporte Interativo HEVC IPTVUltra.com [0x0]
+http://144.217.79.160:8505/live/francis/francis/2920.ts
+#EXTINF:-1,TNT SERIES IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/francis/francis/583.ts
+#EXTINF:-1,Fox Life HEVC IPTVUltra.com [0x0]
+http://144.217.79.160:8505/live/francis/francis/2918.ts
+#EXTINF:-1,FX HEVC IPTVUltra.com [0x0]
+http://144.217.79.160:8505/live/francis/francis/2916.ts
+#EXTINF:-1,TOONCAST IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/francis/francis/582.ts
+#EXTINF:-1,Globo RJ HEVC IPTVUltra.com [0x0]
+http://144.217.79.160:8505/live/francis/francis/2915.ts
+#EXTINF:-1,TV ANHANGUERA IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/francis/francis/568.ts
+#EXTINF:-1,HBO Family HEVC IPTVUltra.com [0x0]
+http://144.217.79.160:8505/live/francis/francis/2913.ts
+#EXTINF:-1,HBO HEVC IPTVUltra.com [0x0]
+http://144.217.79.160:8505/live/francis/francis/2912.ts
+#EXTINF:-1,TV TEM BAURU IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/francis/francis/569.ts
+#EXTINF:-1,HBO Signature HEVC IPTVUltra.com [0x0]
+http://144.217.79.160:8505/live/francis/francis/2910.ts
+#EXTINF:-1,HBO2 HEVC IPTVUltra.com [0x0]
+http://144.217.79.160:8505/live/francis/francis/2909.ts
+#EXTINF:-1,UNIVERSAL CHANNEL IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/francis/francis/576.ts
+#EXTINF:-1,History 2 HEVC IPTVUltra.com [0x0]
+http://144.217.79.160:8505/live/francis/francis/2908.ts
+#EXTINF:-1,Megapix HEVC IPTVUltra.com [0x0]
+http://144.217.79.160:8505/live/francis/francis/2906.ts
+#EXTINF:-1,VIVA IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/francis/francis/574.ts
+#EXTINF:-1,NatGeo HEVC IPTVUltra.com [0x0]
+http://144.217.79.160:8505/live/francis/francis/2904.ts
+#EXTINF:-1,Premiere 2 HEVC IPTVUltra.com [0x0]
+http://144.217.79.160:8505/live/francis/francis/2902.ts
+#EXTINF:-1,WARNER CHANNEL IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/francis/francis/573.ts
+#EXTINF:-1,Premiere 4 HEVC IPTVUltra.com [0x0]
+http://144.217.79.160:8505/live/francis/francis/2901.ts
+#EXTINF:-1,Animal Planet HEVC IPTVUltra.com [0x0]
+http://144.217.79.160:8505/live/francis/francis/2931.ts
+#EXTINF:-1,Premiere Clubes HEVC IPTVUltra.com [0x0]
+http://144.217.79.160:8505/live/francis/francis/2899.ts
+#EXTINF:-1,Discovery Theater HEVC IPTVUltra.com [0x0]
+http://144.217.79.160:8505/live/francis/francis/2927.ts
+#EXTINF:-1,Sportv HEVC IPTVUltra.com [0x0]
+http://144.217.79.160:8505/live/francis/francis/2897.ts
+#EXTINF:-1,TC Pipoca HEVC IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/francis/francis/2894.ts
+#EXTINF:-1,TC Premium HEVC IPTVUltra.com [0x0]
+http://144.217.79.160:8505/live/francis/francis/2893.ts
+#EXTINF:-1,EI Maxx HEVC IPTVUltra.com [0x0]
+http://144.217.79.160:8505/live/francis/francis/2923.ts
+#EXTINF:-1,TC Touch HEVC IPTVUltra.com [0x0]
+http://144.217.79.160:8505/live/francis/francis/2892.ts
+#EXTINF:-1,TNT Series HEVC IPTVUltra.com [0x0]
+http://144.217.79.160:8505/live/francis/francis/2890.ts
+#EXTINF:-1,Fox Premium 1 HEVC IPTVUltra.com [0x0]
+http://144.217.79.160:8505/live/francis/francis/2919.ts
+#EXTINF:-1,Viva HEVC IPTVUltra.com [0x0]
+http://144.217.79.160:8505/live/francis/francis/2888.ts
+#EXTINF:-1,Warner HEVC IPTVUltra.com [0x0]
+http://144.217.79.160:8505/live/francis/francis/2887.ts
+#EXTINF:-1,Fox Sports 2 HEVC IPTVUltra.com [0x0]
+http://144.217.79.160:8505/live/francis/francis/2917.ts
+#EXTINF:-1,Canal Brasil HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/francis/francis/2885.ts
+#EXTINF:-1,Cinemax HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/francis/francis/2884.ts
+#EXTINF:-1,Discovery Kids HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/francis/francis/2883.ts
+#EXTINF:-1,GNT HEVC IPTVUltra.com [0x0]
+http://144.217.79.160:8505/live/francis/francis/2914.ts
+#EXTINF:-1,Disney Channel HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/francis/francis/2882.ts
+#EXTINF:-1,Food Network HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/francis/francis/2880.ts
+#EXTINF:-1,HBO Plus HEVC IPTVUltra.com [0x0]
+http://144.217.79.160:8505/live/francis/francis/2911.ts
+#EXTINF:-1,Gloob HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/francis/francis/2878.ts
+#EXTINF:-1,ID HEVC IPTVUltra.com [0x0]
+http://144.217.79.160:8505/live/francis/francis/2907.ts
+#EXTINF:-1,Multishow HEVC IPTVUltra.com [0x0]
+http://144.217.79.160:8505/live/francis/francis/2905.ts
+#EXTINF:-1,MAX HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/francis/francis/2875.ts
+#EXTINF:-1,MTV HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/francis/francis/2872.ts
+#EXTINF:-1,Premiere 5 HEVC IPTVUltra.com [0x0]
+http://144.217.79.160:8505/live/francis/francis/2900.ts
+#EXTINF:-1,Syfy HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/francis/francis/2869.ts
+#EXTINF:-1,TC Cult HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/francis/francis/2868.ts
+#EXTINF:-1,SBT HEVC IPTVUltra.com [1920x1088]
+http://144.217.79.160:8505/live/francis/francis/2898.ts
+#EXTINF:-1,TLC HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/francis/francis/2867.ts
+#EXTINF:-1,VH1 HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/francis/francis/2866.ts
+#EXTINF:-1,TBS HEVC IPTVUltra.com [0x0]
+http://144.217.79.160:8505/live/francis/francis/2896.ts
+#EXTINF:-1,XX: SEXTREME IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/francis/francis/606.ts
+#EXTINF:-1,XXX: BRAZZERS TV EUROPE IPTVUltra.com [720x416]
+http://144.217.79.160:8505/live/francis/francis/2254.ts
+#EXTINF:-1,EI Maxx 2 HEVC IPTVUltra.com [0x0]
+http://144.217.79.160:8505/live/francis/francis/2924.ts
+#EXTINF:-1,TNT HEVC IPTVUltra.com [0x0]
+http://144.217.79.160:8505/live/francis/francis/2891.ts
+#EXTINF:-1,XX: PLAYBOY TV IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/francis/francis/626.ts
+#EXTINF:-1,Universal Channel HEVC IPTVUltra.com [0x0]
+http://144.217.79.160:8505/live/francis/francis/2889.ts
+#EXTINF:-1,XXX: CHANNEL X 3 (digitalb) IPTVUltra.com [864x496]
+http://144.217.79.160:8505/live/francis/francis/2248.ts
+#EXTINF:-1,XXX: CHANNEL X 2 (digitalb) IPTVUltra.com [720x576]
+http://144.217.79.160:8505/live/francis/francis/2249.ts
+#EXTINF:-1,XXX: DORCEL IPTVUltra.com [720x416]
+http://144.217.79.160:8505/live/francis/francis/2246.ts
+#EXTINF:-1,XXX: CENTOXCENTO TV IPTVUltra.com [720x416]
+http://144.217.79.160:8505/live/francis/francis/2251.ts
+#EXTINF:-1,XXX: ENJOY PREMIUM IPTVUltra.com [544x416]
+http://144.217.79.160:8505/live/francis/francis/2244.ts
+#EXTINF:-1,XXX: FRENCHLOVER IPTVUltra.com [960x544]
+http://144.217.79.160:8505/live/francis/francis/2232.ts
+#EXTINF:-1,XXX: PENTHOUSE EUROPE IPTVUltra.com [1920x1088]
+http://144.217.79.160:8505/live/francis/francis/2218.ts
+#EXTINF:-1,E! HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/francis/francis/2881.ts
+#EXTINF:-1,XXX: PENTHOUSE HD IPTVUltra.com [720x576]
+http://144.217.79.160:8505/live/francis/francis/2217.ts
+#EXTINF:-1,TV RA TIM BUM IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/francis/francis/578.ts
+#EXTINF:-1,XXX: JASMIN.TV HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/francis/francis/2226.ts
+#EXTINF:-1,XXX: HUSTLERXXX IPTVUltra.com [1088x720]
+http://144.217.79.160:8505/live/francis/francis/2227.ts
+#EXTINF:-1,Life Time HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/francis/francis/2877.ts
+#EXTINF:-1,XXX: RETRO X IPTVUltra.com [1088x720]
+http://144.217.79.160:8505/live/francis/francis/2207.ts
+#EXTINF:-1,XXX: PLAYBOY TV HD  18 IPTVUltra.com [1088x720]
+http://144.217.79.160:8505/live/francis/francis/2212.ts
+#EXTINF:-1,XXX: EXOTICA TV IPTVUltra.com [864x480]
+http://144.217.79.160:8505/live/francis/francis/2234.ts
+#EXTINF:-1,Max Prime HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/francis/francis/2874.ts
+#EXTINF:-1,XXX: PlayBoy TV IPTVUltra.com [720x576]
+http://144.217.79.160:8505/live/francis/francis/2213.ts
+#EXTINF:-1,Nick HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/francis/francis/2871.ts
+#EXTINF:-1,XXX: EROTIC 8 IPTVUltra.com [720x576]
+http://144.217.79.160:8505/live/francis/francis/2236.ts
+#EXTINF:-1,XXX: EROTIC 5 IPTVUltra.com [720x576]
+http://144.217.79.160:8505/live/francis/francis/2239.ts
+#EXTINF:-1,Paramount HEVC IPTVUltra.com [0x0]
+http://144.217.79.160:8505/live/francis/francis/2903.ts
+#EXTINF:-1,XXX: EROTIC 1 IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/francis/francis/2243.ts
+#EXTINF:-1,TC Action HEVC IPTVUltra.com [0x0]
+http://144.217.79.160:8505/live/francis/francis/2895.ts
+#EXTINF:-1,XXX: EROTIC 2 IPTVUltra.com [720x576]
+http://144.217.79.160:8505/live/francis/francis/2242.ts
+#EXTINF:-1,XX: SEXY HOT IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/francis/francis/605.ts
+#EXTINF:-1,XXX: PRIVATE IPTVUltra.com [720x576]
+http://144.217.79.160:8505/live/francis/francis/2209.ts
+#EXTINF:-1,XXX: BIZARE TRING IPTVUltra.com [720x576]
+http://144.217.79.160:8505/live/francis/francis/2256.ts
+#EXTINF:-1,XXX: PASSIEXXX IPTVUltra.com [720x416]
+http://144.217.79.160:8505/live/francis/francis/2219.ts
+#EXTINF:-1,XXX: RK HD IPTVUltra.com [720x576]
+http://144.217.79.160:8505/live/francis/francis/2206.ts
+#EXTINF:-1,XXX: SEX SEX HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/francis/francis/2202.ts
+#EXTINF:-1,XXX: SEX STATION IPTVUltra.com [720x576]
+http://144.217.79.160:8505/live/francis/francis/2201.ts
+#EXTINF:-1,XXX: SIRINA 1 IPTVUltra.com [720x400]
+http://144.217.79.160:8505/live/francis/francis/2198.ts
+#EXTINF:-1,XXX: SPICE TV IPTVUltra.com [720x576]
+http://144.217.79.160:8505/live/francis/francis/2195.ts
+#EXTINF:-1,XXX: Maiden van Holland IPTVUltra.com [720x576]
+http://144.217.79.160:8505/live/francis/francis/2224.ts
+#EXTINF:-1,XXX: Sex Channel IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/francis/francis/2203.ts
+#EXTINF:-1,Globo News HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/francis/francis/2879.ts
+#EXTINF:-1,XXX: XXL HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/francis/francis/2190.ts
+#EXTINF:-1,XXX: XXL IPTVUltra.com [720x576]
+http://144.217.79.160:8505/live/francis/francis/2191.ts
+#EXTINF:-1,Mais Globo Sat HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/francis/francis/2876.ts
+#EXTINF:-1,Max UP HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/francis/francis/2873.ts
+#EXTINF:-1,XXX: EROXXX IPTVUltra.com [720x576]
+http://144.217.79.160:8505/live/francis/francis/2235.ts
+#EXTINF:-1,XXX: EROTIC 6 IPTVUltra.com [720x576]
+http://144.217.79.160:8505/live/francis/francis/2238.ts
+#EXTINF:-1,XXX: EROTIC 4 IPTVUltra.com [720x576]
+http://144.217.79.160:8505/live/francis/francis/2240.ts
+#EXTINF:-1,XXX: DUSK IPTVUltra.com [720x416]
+http://144.217.79.160:8505/live/francis/francis/2245.ts
+#EXTINF:-1,XXX: RUSSKAYA NOCH IPTVUltra.com [720x576]
+http://144.217.79.160:8505/live/francis/francis/2205.ts
+#EXTINF:-1,XXX: SIRINA IPTVUltra.com [864x480]
+http://144.217.79.160:8505/live/francis/francis/2199.ts
+#EXTINF:-1,A&E HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/francis/francis/2886.ts
+#EXTINF:-1,XXX: SCT IPTVUltra.com [720x416]
+http://144.217.79.160:8505/live/francis/francis/2204.ts
+#EXTINF:-1,XXX: Lethal Hardcore IPTVUltra.com [720x576]
+http://144.217.79.160:8505/live/francis/francis/2225.ts
+#EXTINF:-1,XXX: SUPERONE IPTVUltra.com [720x576]
+http://144.217.79.160:8505/live/francis/francis/2194.ts
+#EXTINF:-1,TV CULTURA IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/francis/francis/579.ts
+#EXTINF:-1,XXX: PLEASURE IPTVUltra.com [1920x1088]
+http://144.217.79.160:8505/live/francis/francis/2210.ts
+#EXTINF:-1,XXX: FAKE TAXI IPTVUltra.com [768x432]
+http://144.217.79.160:8505/live/francis/francis/2233.ts
+#EXTINF:-1,Studio Universal HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/francis/francis/2870.ts
+#EXTINF:-1,XXX: Reality Sex IPTVUltra.com [864x496]
+http://144.217.79.160:8505/live/francis/francis/2208.ts
+#EXTINF:-1,XXX: SIRINA 3 IPTVUltra.com [720x400]
+http://144.217.79.160:8505/live/francis/francis/2196.ts
+#EXTINF:-1,XXX: EROTIC 3 IPTVUltra.com [720x576]
+http://144.217.79.160:8505/live/francis/francis/2241.ts
+#EXTINF:-1,(PT)A&E IPTVUltra.com [640x368]
+http://144.217.79.160:8505/live/francis/francis/1337.ts
+#EXTINF:-1,(PT)AMC HD IPTVUltra.com [720x576]
+http://144.217.79.160:8505/live/francis/francis/1336.ts
+#EXTINF:-1,(PT)AXN BLACK HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/francis/francis/1332.ts
+#EXTINF:-1,(PT)AXN HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/francis/francis/1334.ts
+#EXTINF:-1,(PT)AXN WHITE HD IPTVUltra.com [720x576]
+http://144.217.79.160:8505/live/francis/francis/1330.ts
+#EXTINF:-1,(PT)BENFICA TV 1 IPTVUltra.com [720x576]
+http://144.217.79.160:8505/live/francis/francis/1328.ts
+#EXTINF:-1,(PT)BIGGS IPTVUltra.com [720x576]
+http://144.217.79.160:8505/live/francis/francis/1325.ts
+#EXTINF:-1,(PT)DISNEY CHANNEL IPTVUltra.com [720x576]
+http://144.217.79.160:8505/live/francis/francis/1315.ts
+#EXTINF:-1,(PT)DOG TV IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/francis/francis/1313.ts
+#EXTINF:-1,(PT)EuroNews IPTVUltra.com [720x576]
+http://144.217.79.160:8505/live/francis/francis/1309.ts
+#EXTINF:-1,(PT)EuroSport IPTVUltra.com [720x576]
+http://144.217.79.160:8505/live/francis/francis/1311.ts
+#EXTINF:-1,(PT)EUROSPORT 1 HD IPTVUltra.com [720x576]
+http://144.217.79.160:8505/live/francis/francis/1308.ts
+#EXTINF:-1,(PT)EuroSport 2 IPTVUltra.com [720x576]
+http://144.217.79.160:8505/live/francis/francis/1310.ts
+#EXTINF:-1,(PT)FOX Comedy HD IPTVUltra.com [720x576]
+http://144.217.79.160:8505/live/francis/francis/1220.ts
+#EXTINF:-1,(PT)FOX Crime IPTVUltra.com [720x576]
+http://144.217.79.160:8505/live/francis/francis/1219.ts
+#EXTINF:-1,(PT)FOX HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/francis/francis/1222.ts
+#EXTINF:-1,(PT)FOX LIFE HD IPTVUltra.com [720x576]
+http://144.217.79.160:8505/live/francis/francis/1215.ts
+#EXTINF:-1,(PT)GLOBO PORTUGAL IPTVUltra.com [720x576]
+http://144.217.79.160:8505/live/francis/francis/1306.ts
+#EXTINF:-1,(PT)MOTORSVISION HD IPTVUltra.com [720x576]
+http://144.217.79.160:8505/live/francis/francis/1297.ts
+#EXTINF:-1,(PT)MTV IPTVUltra.com [720x576]
+http://144.217.79.160:8505/live/francis/francis/1298.ts
+#EXTINF:-1,(PT)National Geographic Channel IPTVUltra.com [720x576]
+http://144.217.79.160:8505/live/francis/francis/1296.ts
+#EXTINF:-1,(PT)NATIONAL GEOGRAPHIC WILD IPTVUltra.com [720x576]
+http://144.217.79.160:8505/live/francis/francis/1294.ts
+#EXTINF:-1,(PT)Odisseia IPTVUltra.com [720x576]
+http://144.217.79.160:8505/live/francis/francis/1293.ts
+#EXTINF:-1,(PT)PFC IPTVUltra.com [720x576]
+http://144.217.79.160:8505/live/francis/francis/1292.ts
+#EXTINF:-1,(PT)PORTO CANAL IPTVUltra.com [720x576]
+http://144.217.79.160:8505/live/francis/francis/1291.ts
+#EXTINF:-1,(PT)RECORD NEWS IPTVUltra.com [720x576]
+http://144.217.79.160:8505/live/francis/francis/1281.ts
+#EXTINF:-1,(PT)REGIÕES TV IPTVUltra.com [640x368]
+http://144.217.79.160:8505/live/francis/francis/1289.ts
+#EXTINF:-1,(PT)RTP Memória IPTVUltra.com [720x576]
+http://144.217.79.160:8505/live/francis/francis/1282.ts
+#EXTINF:-1,(PT)SIC CARAS IPTVUltra.com [720x576]
+http://144.217.79.160:8505/live/francis/francis/1266.ts
+#EXTINF:-1,(PT)SIC Radical IPTVUltra.com [720x576]
+http://144.217.79.160:8505/live/francis/francis/1262.ts
+#EXTINF:-1,(PT)SPORT TV 1 IPTVUltra.com [720x576]
+http://144.217.79.160:8505/live/francis/francis/1278.ts
+#EXTINF:-1,(PT)SPORT TV 1 FULL HD IPTVUltra.com [1440x1088]
+http://144.217.79.160:8505/live/francis/francis/1276.ts
+#EXTINF:-1,(PT)SPORT TV 2 IPTVUltra.com [720x576]
+http://144.217.79.160:8505/live/francis/francis/1275.ts
+#EXTINF:-1,(PT)SPORT TV 3 IPTVUltra.com [720x576]
+http://144.217.79.160:8505/live/francis/francis/1273.ts
+#EXTINF:-1,(PT)SPORT TV 4 IPTVUltra.com [720x576]
+http://144.217.79.160:8505/live/francis/francis/1271.ts
+#EXTINF:-1,(PT)SPORT.TV 1 HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/francis/francis/1277.ts
+#EXTINF:-1,(PT)SPORT.TV 3 HD IPTVUltra.com [1088x720]
+http://144.217.79.160:8505/live/francis/francis/1272.ts
+#EXTINF:-1,(PT)SPORT.TV 5 HD IPTVUltra.com [720x576]
+http://144.217.79.160:8505/live/francis/francis/1268.ts
+#EXTINF:-1,(PT)SPORT.TV Mais HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/francis/francis/1267.ts
+#EXTINF:-1,(PT)Sporting TV IPTVUltra.com [720x576]
+http://144.217.79.160:8505/live/francis/francis/1261.ts
+#EXTINF:-1,(PT)SyFy IPTVUltra.com [704x400]
+http://144.217.79.160:8505/live/francis/francis/1259.ts
+#EXTINF:-1,(PT)SYFY HD IPTVUltra.com [1088x720]
+http://144.217.79.160:8505/live/francis/francis/1258.ts
+#EXTINF:-1,(PT)TLC IPTVUltra.com [640x368]
+http://144.217.79.160:8505/live/francis/francis/1256.ts
+#EXTINF:-1,(PT)TOROS TV IPTVUltra.com [720x576]
+http://144.217.79.160:8505/live/francis/francis/1242.ts
+#EXTINF:-1,(PT)TVC 2 IPTVUltra.com [720x576]
+http://144.217.79.160:8505/live/francis/francis/1252.ts
+#EXTINF:-1,(PT)TVCINE 1 HD IPTVUltra.com [1088x720]
+http://144.217.79.160:8505/live/francis/francis/1253.ts
+#EXTINF:-1,(PT)TVI 24 IPTVUltra.com [720x576]
+http://144.217.79.160:8505/live/francis/francis/1245.ts
+#EXTINF:-1,(PT)TVI REALITY IPTVUltra.com [720x576]
+http://144.217.79.160:8505/live/francis/francis/1243.ts
+#EXTINF:-1,(PT)TVSéries IPTVUltra.com [720x576]
+http://144.217.79.160:8505/live/francis/francis/1247.ts
+#EXTINF:-1,(PT)TVSéries HD IPTVUltra.com [720x576]
+http://144.217.79.160:8505/live/francis/francis/1246.ts
+#EXTINF:-1,Globo Internacional IPTVUltra.com [720x576]
+http://144.217.79.160:8505/live/francis/francis/1240.ts
+#EXTINF:-1,NHK IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/francis/francis/633.ts
+#EXTINF:-1,TVE IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/francis/francis/577.ts
+#EXTINF:-1,AR: Tyc Sports IPTVUltra.com [704x400]
+http://144.217.79.160:8505/live/francis/francis/1199.ts
+#EXTINF:-1,Bloomberg IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/francis/francis/1234.ts
+#EXTINF:-1,(PT)AXN IPTVUltra.com [720x576]
+http://144.217.79.160:8505/live/francis/francis/1335.ts
+#EXTINF:-1,(PT)E! ENTERTAINMENT IPTVUltra.com [624x480]
+http://144.217.79.160:8505/live/francis/francis/1312.ts
+#EXTINF:-1,US: Bloomberg TV  1080p HD IPTVUltra.com [1920x1088]
+http://144.217.79.160:8505/live/francis/francis/1396.ts
+#EXTINF:-1,US: |VIP| Bein Sports USA HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/francis/francis/1398.ts
+#EXTINF:-1,US: |VIP| CNN HD IPTVUltra.com [640x368]
+http://144.217.79.160:8505/live/francis/francis/1397.ts
+#EXTINF:-1,USA | A&E HD IPTVUltra.com [640x368]
+http://144.217.79.160:8505/live/francis/francis/1481.ts
+#EXTINF:-1,USA | ABC HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/francis/francis/1480.ts
+#EXTINF:-1,USA | AFN NEWS IPTVUltra.com [720x480]
+http://144.217.79.160:8505/live/francis/francis/1478.ts
+#EXTINF:-1,USA | AFN PRIME ATLANTIC IPTVUltra.com [720x480]
+http://144.217.79.160:8505/live/francis/francis/1477.ts
+#EXTINF:-1,USA | AFN PRIME PACIFIC IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/francis/francis/1476.ts
+#EXTINF:-1,USA | AFN SPECTRUM IPTVUltra.com [720x480]
+http://144.217.79.160:8505/live/francis/francis/1474.ts
+#EXTINF:-1,USA | AFN SPORTS IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/francis/francis/1473.ts
+#EXTINF:-1,USA | AFN SPORTS 2 IPTVUltra.com [720x480]
+http://144.217.79.160:8505/live/francis/francis/1472.ts
+#EXTINF:-1,USA | Animal Planet HD IPTVUltra.com [1920x1088]
+http://144.217.79.160:8505/live/francis/francis/1470.ts
+#EXTINF:-1,USA | CBS HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/francis/francis/1467.ts
+#EXTINF:-1,USA | CI HD IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/francis/francis/1466.ts
+#EXTINF:-1,USA | CINEMAX HD IPTVUltra.com [640x368]
+http://144.217.79.160:8505/live/francis/francis/1465.ts
+#EXTINF:-1,USA | Cinemax MoreMax HD IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/francis/francis/1464.ts
+#EXTINF:-1,USA | Cinemax ThrillerMax HD IPTVUltra.com [640x480]
+http://144.217.79.160:8505/live/francis/francis/1463.ts
+#EXTINF:-1,USA | CNBC-US (nbc at 3pm) IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/francis/francis/1462.ts
+#EXTINF:-1,USA | CNN HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/francis/francis/1461.ts
+#EXTINF:-1,USA | Comedy Central IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/francis/francis/1460.ts
+#EXTINF:-1,USA | CPAC IPTVUltra.com [720x576]
+http://144.217.79.160:8505/live/francis/francis/1459.ts
+#EXTINF:-1,USA | CW HD IPTVUltra.com [720x576]
+http://144.217.79.160:8505/live/francis/francis/1457.ts
+#EXTINF:-1,USA | Discovery HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/francis/francis/1456.ts
+#EXTINF:-1,USA | DISCOVERY SCIENCE IPTVUltra.com [544x576]
+http://144.217.79.160:8505/live/francis/francis/1455.ts
+#EXTINF:-1,USA | DIY NETWORK HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/francis/francis/1454.ts
+#EXTINF:-1,USA | ESPN IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/francis/francis/1452.ts
+#EXTINF:-1,USA | ESPN 2 IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/francis/francis/1451.ts
+#EXTINF:-1,USA | AFN PULSE IPTVUltra.com [720x480]
+http://144.217.79.160:8505/live/francis/francis/1475.ts
+#EXTINF:-1,USA | Food Network HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/francis/francis/1449.ts
+#EXTINF:-1,USA | Fox IPTVUltra.com [720x240]
+http://144.217.79.160:8505/live/francis/francis/1448.ts
+#EXTINF:-1,USA | Fox News HD IPTVUltra.com [704x576]
+http://144.217.79.160:8505/live/francis/francis/1446.ts
+#EXTINF:-1,USA | Fox Sports 1 HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/francis/francis/1445.ts
+#EXTINF:-1,USA | Fox Sports 2 HD IPTVUltra.com [1024x576]
+http://144.217.79.160:8505/live/francis/francis/1444.ts
+#EXTINF:-1,USA | FreeForm HD IPTVUltra.com [1920x1088]
+http://144.217.79.160:8505/live/francis/francis/1443.ts
+#EXTINF:-1,USA | Golf HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/francis/francis/1440.ts
+#EXTINF:-1,USA | H2 IPTVUltra.com [544x480]
+http://144.217.79.160:8505/live/francis/francis/1439.ts
+#EXTINF:-1,USA | HallMark HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/francis/francis/1438.ts
+#EXTINF:-1,USA | HBO Comedy (nbc at 3pm) IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/francis/francis/1436.ts
+#EXTINF:-1,USA | HGTV IPTVUltra.com [640x368]
+http://144.217.79.160:8505/live/francis/francis/1430.ts
+#EXTINF:-1,USA | HISTORY IPTVUltra.com [1920x1088]
+http://144.217.79.160:8505/live/francis/francis/1429.ts
+#EXTINF:-1,USA | NBC GOLF IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/francis/francis/1422.ts
+#EXTINF:-1,USA | NBC Sports Network HD IPTVUltra.com [688x480]
+http://144.217.79.160:8505/live/francis/francis/1421.ts
+#EXTINF:-1,USA | NFL NETWORK IPTVUltra.com [1024x576]
+http://144.217.79.160:8505/live/francis/francis/1420.ts
+#EXTINF:-1,USA | NHL Network (nbc goalrush at 3pm) IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/francis/francis/1419.ts
+#EXTINF:-1,USA | PAC 12 WASHINGTON HD IPTVUltra.com [1920x1088]
+http://144.217.79.160:8505/live/francis/francis/1418.ts
+#EXTINF:-1,USA | Sports Net Ontario HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/francis/francis/1411.ts
+#EXTINF:-1,USA | Investigation Discovery HD IPTVUltra.com [720x576]
+http://144.217.79.160:8505/live/francis/francis/1428.ts
+#EXTINF:-1,USA | TRU TV HD IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/francis/francis/1402.ts
+#EXTINF:-1,USA | USA NETWORK IPTVUltra.com [1280x720]
+http://144.217.79.160:8505/live/francis/francis/1400.ts
